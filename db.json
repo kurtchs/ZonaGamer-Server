@@ -1,984 +1,1151 @@
 {
-"games":[
+  "games": [
     {
-        "id": "game001",
-        "name": "Mario Odyssey",
-        "image":"" ,
-        "info": "En Super Mario Odyssey, los jugadores controlan a Mario mientras viaja a través de diversos reinos en su nave, la Odyssey, con el objetivo de rescatar a la Princesa Peach de los planes de boda de Bowser. Cada reino es un mundo abierto lleno de secretos, acertijos y desafíos que culminan en la obtención de Energilunas, necesarias para avanzar a nuevas áreas. Una mecánica destacada es la colaboración con Cappy, un sombrero sensible que permite a Mario capturar y tomar el control de enemigos y objetos, añadiendo profundidad y variedad a la jugabilidad.",
-        "genre":["plataformas", "acción", "aventura", "mundo abierto"],
-        "plataform":["nintendo Switch"],
-        "developer":" Nintendo EPD (Entertainment Planning & Development)",
-        "release date":"27 de Octubre de 2017",
-        "awards":[
-            "Game Critics Awards 2017", 
-            "Golden Joystick Awards 2017", 
-            "The Game Awards 2017", "D.I.C.E. Awards 2018", 
-            "British Academy Games Awards (BAFTA) 2018", 
-            "Famitsu Awards 2017", "NAVGTR Awards 2018"
-        ],
-        "copiesSold":"28,21 millones de copias vendidas"
-
+      "id": "game001",
+      "name": "Mario Odyssey",
+      "image": "",
+      "info": "En Super Mario Odyssey, los jugadores controlan a Mario mientras viaja a través de diversos reinos en su nave, la Odyssey, con el objetivo de rescatar a la Princesa Peach de los planes de boda de Bowser. Cada reino es un mundo abierto lleno de secretos, acertijos y desafíos que culminan en la obtención de Energilunas, necesarias para avanzar a nuevas áreas. Una mecánica destacada es la colaboración con Cappy, un sombrero sensible que permite a Mario capturar y tomar el control de enemigos y objetos, añadiendo profundidad y variedad a la jugabilidad.",
+      "genre": [
+        "plataformas",
+        "acción",
+        "aventura",
+        "mundo abierto"
+      ],
+      "plataform": [
+        "nintendo Switch"
+      ],
+      "developer": " Nintendo EPD (Entertainment Planning & Development)",
+      "release date": "27 de Octubre de 2017",
+      "awards": [
+        "Game Critics Awards 2017",
+        "Golden Joystick Awards 2017",
+        "The Game Awards 2017",
+        "D.I.C.E. Awards 2018",
+        "British Academy Games Awards (BAFTA) 2018",
+        "Famitsu Awards 2017",
+        "NAVGTR Awards 2018"
+      ],
+      "copiesSold": "28,21 millones de copias vendidas"
     },
     {
-       "id": "game002",
-        "name": "bloodborne",
-        "image":"" ,
-        "info": "Bloodborne es un Action-RPG que incorpora elementos de exploración y combate en tiempo real. Los jugadores asumen el papel de un cazador en la ciudad ficticia de Yharnam, enfrentándose a criaturas grotescas y desentrañando misterios oscuros. El juego se destaca por su alta dificultad, recompensando la estrategia y la habilidad del jugador.",
-        "genre":["acción", "rol", "combate en tiempo real"],
-        "plataform":["Playstarion 4"],
-        "developer":"From Software",
-        "release date":"24 de marzo de 2015",
-        "awards":[
-            "The Game Awards 2015: Nominado a Juego del Año.",
-            "British Academy Games Awards (BAFTA) 2016: Ganador en la categoría de Logro en Diseño de Juego.",
-            "D.I.C.E. Awards 2016: Ganador en la categoría de Logro Sobresaliente en Dirección de Juego."
-        ],
-        "copiesSold": "7,46 millones de copias vendidas"
-
+      "id": "game002",
+      "name": "bloodborne",
+      "image": "",
+      "info": "Bloodborne es un Action-RPG que incorpora elementos de exploración y combate en tiempo real. Los jugadores asumen el papel de un cazador en la ciudad ficticia de Yharnam, enfrentándose a criaturas grotescas y desentrañando misterios oscuros. El juego se destaca por su alta dificultad, recompensando la estrategia y la habilidad del jugador.",
+      "genre": [
+        "acción",
+        "rol",
+        "combate en tiempo real"
+      ],
+      "plataform": [
+        "Playstarion 4"
+      ],
+      "developer": "From Software",
+      "release date": "24 de marzo de 2015",
+      "awards": [
+        "The Game Awards 2015: Nominado a Juego del Año.",
+        "British Academy Games Awards (BAFTA) 2016: Ganador en la categoría de Logro en Diseño de Juego.",
+        "D.I.C.E. Awards 2016: Ganador en la categoría de Logro Sobresaliente en Dirección de Juego."
+      ],
+      "copiesSold": "7,46 millones de copias vendidas"
     },
     {
-        "id": "game003",
-        "name": "Lies of P",
-        "image":"" ,
-        "info": "Lies of P es un videojuego del género soulslike. Basado libremente en la novela 'Las aventuras de Pinocho' de Carlo Collodi, el juego ofrece una reinterpretación oscura y madura del clásico cuento.",
-        "genre":["accion", "aventura", "rol"],
-        "plataform":["layStation 4", "PlayStation 5", "Windows", "Xbox One",  "Xbox Series X/S."],
-        "developer":"Round8 Studio",
-        "release date":"18 de septiembre de 2023",
-        "awards":[""],
-        "copiesSold":"1 millon de copias vendidas"
-
+      "id": "game003",
+      "name": "Lies of P",
+      "image": "",
+      "info": "Lies of P es un videojuego del género soulslike. Basado libremente en la novela 'Las aventuras de Pinocho' de Carlo Collodi, el juego ofrece una reinterpretación oscura y madura del clásico cuento.",
+      "genre": [
+        "accion",
+        "aventura",
+        "rol"
+      ],
+      "plataform": [
+        "layStation 4",
+        "PlayStation 5",
+        "Windows",
+        "Xbox One",
+        "Xbox Series X/S."
+      ],
+      "developer": "Round8 Studio",
+      "release date": "18 de septiembre de 2023",
+      "awards": [
+        ""
+      ],
+      "copiesSold": "1 millon de copias vendidas"
     },
     {
-        "id": "game004",
-        "name": "Black Myth Wukong",
-        "image": "",
-        "info": "Este juego de rol y acción en tercera persona incorpora elementos soulslike, ofreciendo combates desafiantes y una narrativa profunda. Los jugadores controlan a Sun Wukong, el Rey Mono, utilizando su bastón mágico y habilidades especiales en un mundo inspirado en la mitología china.",
-        "genre":["rol", "acción", "aventura"],
-        "plataform":["layStation 5", "Microsoft Windows", "Xbox Series X/S"],
-        "developer":"Game Science",
-        "release date":"20 de agosto de 2024",
-        "awards":[
-            "Golden Joystick Awards 2024",
-            "Game Awards 2024"
-        ],
-        "copiesSold":"10 millones de copias vendidas "
+      "id": "game004",
+      "name": "Black Myth Wukong",
+      "image": "",
+      "info": "Este juego de rol y acción en tercera persona incorpora elementos soulslike, ofreciendo combates desafiantes y una narrativa profunda. Los jugadores controlan a Sun Wukong, el Rey Mono, utilizando su bastón mágico y habilidades especiales en un mundo inspirado en la mitología china.",
+      "genre": [
+        "rol",
+        "acción",
+        "aventura"
+      ],
+      "plataform": [
+        "layStation 5",
+        "Microsoft Windows",
+        "Xbox Series X/S"
+      ],
+      "developer": "Game Science",
+      "release date": "20 de agosto de 2024",
+      "awards": [
+        "Golden Joystick Awards 2024",
+        "Game Awards 2024"
+      ],
+      "copiesSold": "10 millones de copias vendidas "
     },
     {
-        "id": "game005",
-        "name": "Metroid Dread",
-        "image":"" ,
-        "info": "Metroid Dread es un juego de acción y aventura en 2D que continúa la historia de Samus Aran en su lucha contra los enemigos intergalácticos. El juego destaca por su atmósfera tensa, exploración de mundos alienígenas y un sistema de combate fluido que desafía a los jugadores con secuencias de plataformas y enfrentamientos contra jefes.",
-        "genre":["acción", "aventura", "plataformas", "sci-fi"],
-        "plataform":["nintendo Switch"],
-        "developer":"Nintendo EPD",
-        "release date":"8 de octubre de 2021",
-        "awards":[
-            "The Game Awards 2021 - Mejor Juego de Acción",
-            "Golden Joystick Awards 2021 - Mejor Juego de Acción"
-        ],
-        "copiesSold":"2.74 millones de copias vendidas"
-
+      "id": "game005",
+      "name": "Metroid Dread",
+      "image": "",
+      "info": "Metroid Dread es un juego de acción y aventura en 2D que continúa la historia de Samus Aran en su lucha contra los enemigos intergalácticos. El juego destaca por su atmósfera tensa, exploración de mundos alienígenas y un sistema de combate fluido que desafía a los jugadores con secuencias de plataformas y enfrentamientos contra jefes.",
+      "genre": [
+        "acción",
+        "aventura",
+        "plataformas",
+        "sci-fi"
+      ],
+      "plataform": [
+        "nintendo Switch"
+      ],
+      "developer": "Nintendo EPD",
+      "release date": "8 de octubre de 2021",
+      "awards": [
+        "The Game Awards 2021 - Mejor Juego de Acción",
+        "Golden Joystick Awards 2021 - Mejor Juego de Acción"
+      ],
+      "copiesSold": "2.74 millones de copias vendidas"
     },
     {
-       "id": "game006",
-        "name": "Rise of the Ronin",
-        "image":"" ,
-        "info": "Rise of the Ronin es un juego de rol y acción de mundo abierto ambientado en el Japón del siglo XIX, durante el período Bakumatsu. Los jugadores controlan a los Hermanos Blade, personajes personalizables que se ven envueltos en conflictos históricos y luchas internas mientras exploran ciudades como Yokohama, Edo y Kioto, participando en eventos que llevaron a la Restauración Meiji.",
-        "genre":["rol", "acción", "aventura", "mundo abierto"],
-        "plataform":["PlayStation 5", "Microsoft Windows"],
-        "developer":"Team Ninja",
-        "release date":"22 de marzo de 2024",
-        "awards":[""],
-        "copiesSold":"5 millones de copias vendidas"
-
+      "id": "game006",
+      "name": "Rise of the Ronin",
+      "image": "",
+      "info": "Rise of the Ronin es un juego de rol y acción de mundo abierto ambientado en el Japón del siglo XIX, durante el período Bakumatsu. Los jugadores controlan a los Hermanos Blade, personajes personalizables que se ven envueltos en conflictos históricos y luchas internas mientras exploran ciudades como Yokohama, Edo y Kioto, participando en eventos que llevaron a la Restauración Meiji.",
+      "genre": [
+        "rol",
+        "acción",
+        "aventura",
+        "mundo abierto"
+      ],
+      "plataform": [
+        "PlayStation 5",
+        "Microsoft Windows"
+      ],
+      "developer": "Team Ninja",
+      "release date": "22 de marzo de 2024",
+      "awards": [
+        ""
+      ],
+      "copiesSold": "5 millones de copias vendidas"
     },
     {
-        "id": "game007",
-        "name": "Assassin's Creed Valhalla",
-        "image":"" ,
-        "info": "Assassin's Creed Valhalla es un juego de acción y aventura de mundo abierto donde los jugadores asumen el rol de Eivor, un guerrero vikingo, mientras lidera su clan en su viaje desde Noruega hacia las tierras de Inglaterra. El juego combina combates épicos, exploración, y una narrativa inmersiva centrada en la conquista y supervivencia en un mundo lleno de mitología y política.",
-        "genre":["acción", "aventura", "mundo abierto", "rol"],
-        "plataform":["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Microsoft Windows", "Stadia"],
-        "developer":"Ubisoft Montreal",
-        "release date":"10 de noviembre de 2020",
-        "awards":[
-            "The Game Awards 2020 - Nominado a Mejor Juego de Acción/Aventura",
-            "Golden Joystick Awards 2020 - Mejor Juego de Aventura",
-            "BAFTA Games Awards 2021 - Nominado a Mejor Juego de Acción"
-        ],
-        "copiesSold":"14,5 millones de copias vendidas"
-
+      "id": "game007",
+      "name": "Assassin's Creed Valhalla",
+      "image": "",
+      "info": "Assassin's Creed Valhalla es un juego de acción y aventura de mundo abierto donde los jugadores asumen el rol de Eivor, un guerrero vikingo, mientras lidera su clan en su viaje desde Noruega hacia las tierras de Inglaterra. El juego combina combates épicos, exploración, y una narrativa inmersiva centrada en la conquista y supervivencia en un mundo lleno de mitología y política.",
+      "genre": [
+        "acción",
+        "aventura",
+        "mundo abierto",
+        "rol"
+      ],
+      "plataform": [
+        "PlayStation 4",
+        "PlayStation 5",
+        "Xbox One",
+        "Xbox Series X/S",
+        "Microsoft Windows",
+        "Stadia"
+      ],
+      "developer": "Ubisoft Montreal",
+      "release date": "10 de noviembre de 2020",
+      "awards": [
+        "The Game Awards 2020 - Nominado a Mejor Juego de Acción/Aventura",
+        "Golden Joystick Awards 2020 - Mejor Juego de Aventura",
+        "BAFTA Games Awards 2021 - Nominado a Mejor Juego de Acción"
+      ],
+      "copiesSold": "14,5 millones de copias vendidas"
     },
     {
-        "id": "game008",
-        "name": "EA Sports FC 25",
-        "image":"" ,
-        "info": "EA Sports FC 25 es un videojuego de fútbol desarrollado y publicado por Electronic Arts. Es la segunda entrega de la serie EA Sports FC y la trigésima segunda si se incluyen las entregas bajo el nombre de FIFA",
-        "genre":["deportes", "simulación", "fútbol"],
-        "plataform":["Nintendo Switch", "PlayStation 4", "PlayStation 5", "Microsoft Windows", "Xbox One", "Xbox Series X/S"],
-        "developer":"Electronic Arts",
-        "release date":"27 de septiembre de 2024",
-        "awards":[
-            "The Game Awards 2024 - Nominado a Mejor Juego de Deportes", 
-            "Golden Joystick Awards 2024 - Nominado a Mejor Juego de Deportes"
-        ],
-        "copiesSold": "10 millones de copias vendidas "
-
+      "id": "game008",
+      "name": "EA Sports FC 25",
+      "image": "",
+      "info": "EA Sports FC 25 es un videojuego de fútbol desarrollado y publicado por Electronic Arts. Es la segunda entrega de la serie EA Sports FC y la trigésima segunda si se incluyen las entregas bajo el nombre de FIFA",
+      "genre": [
+        "deportes",
+        "simulación",
+        "fútbol"
+      ],
+      "plataform": [
+        "Nintendo Switch",
+        "PlayStation 4",
+        "PlayStation 5",
+        "Microsoft Windows",
+        "Xbox One",
+        "Xbox Series X/S"
+      ],
+      "developer": "Electronic Arts",
+      "release date": "27 de septiembre de 2024",
+      "awards": [
+        "The Game Awards 2024 - Nominado a Mejor Juego de Deportes",
+        "Golden Joystick Awards 2024 - Nominado a Mejor Juego de Deportes"
+      ],
+      "copiesSold": "10 millones de copias vendidas "
     },
     {
-        "id": "game009",
-        "name": "God of War (2018)",
-        "image":"" ,
-        "info": "God of War (2018) es un juego de acción y aventura que reinventa la clásica saga de Kratos, llevándola a la mitología nórdica. El juego sigue a Kratos y su hijo Atreus mientras enfrentan a dioses, monstruos y desafíos mientras buscan cumplir el último deseo de la madre de Atreus. Con un combate fluido, una historia emocional y un mundo abierto, el título se convirtió en uno de los más aclamados de la generación.",
-        "genre":["acción", "aventura", "rol", "mundo abierto"],
-        "plataform":["PlayStation 4", "Microsoft Windows"],
-        "developer":"Santa Monica Studio",
-        "release date":"20 de abril de 2018",
-        "awards":[
-            "The Game Awards 2018 - Juego del Año",
-            "Golden Joystick Awards 2018 - Mejor Juego de Acción",
-            "BAFTA Games Awards 2019 - Mejor Juego",
-            "D.I.C.E. Awards 2019 - Juego del Año"
-        ],
-        "copiesSold":"20 millones de copias vendidas"
-
+      "id": "game009",
+      "name": "God of War (2018)",
+      "image": "",
+      "info": "God of War (2018) es un juego de acción y aventura que reinventa la clásica saga de Kratos, llevándola a la mitología nórdica. El juego sigue a Kratos y su hijo Atreus mientras enfrentan a dioses, monstruos y desafíos mientras buscan cumplir el último deseo de la madre de Atreus. Con un combate fluido, una historia emocional y un mundo abierto, el título se convirtió en uno de los más aclamados de la generación.",
+      "genre": [
+        "acción",
+        "aventura",
+        "rol",
+        "mundo abierto"
+      ],
+      "plataform": [
+        "PlayStation 4",
+        "Microsoft Windows"
+      ],
+      "developer": "Santa Monica Studio",
+      "release date": "20 de abril de 2018",
+      "awards": [
+        "The Game Awards 2018 - Juego del Año",
+        "Golden Joystick Awards 2018 - Mejor Juego de Acción",
+        "BAFTA Games Awards 2019 - Mejor Juego",
+        "D.I.C.E. Awards 2019 - Juego del Año"
+      ],
+      "copiesSold": "20 millones de copias vendidas"
     },
     {
-       "id": "game010",
-        "name": "Grand Theft Auto V",
-        "image":"" ,
-        "info": "Grand Theft Auto V es un juego de acción y aventura de mundo abierto desarrollado por Rockstar North. Los jugadores controlan a tres protagonistas (Michael, Trevor y Franklin) en la ciudad ficticia de Los Santos, basada en Los Ángeles. El juego ofrece una amplia gama de actividades, desde misiones principales hasta actividades secundarias como deportes, vehículos y robos. Su modo multijugador, GTA Online, ha sido un éxito continuo con actualizaciones regulares.",
-        "genre":["acción", "aventura", "mundo abierto"],
-        "plataform":["PlayStation 3", "PlayStation 4", "PlayStation 5", "Xbox 360", "Xbox One", "Xbox Series X/S", "Microsoft Windows"],
-        "developer":"Rockstar North",
-        "release date":"17 de septiembre de 2013",
-        "awards":[
-            "The Game Awards 2013 - Nominado a Juego del Año",
-            "Golden Joystick Awards 2013 - Mejor Juego de Acción",
-            "BAFTA Games Awards 2014 - Mejor Juego",
-            "D.I.C.E. Awards 2014 - Juego del Año"
-        ],
-        "copiesSold":"160 millones de copias vendidas"
-
+      "id": "game010",
+      "name": "Grand Theft Auto V",
+      "image": "",
+      "info": "Grand Theft Auto V es un juego de acción y aventura de mundo abierto desarrollado por Rockstar North. Los jugadores controlan a tres protagonistas (Michael, Trevor y Franklin) en la ciudad ficticia de Los Santos, basada en Los Ángeles. El juego ofrece una amplia gama de actividades, desde misiones principales hasta actividades secundarias como deportes, vehículos y robos. Su modo multijugador, GTA Online, ha sido un éxito continuo con actualizaciones regulares.",
+      "genre": [
+        "acción",
+        "aventura",
+        "mundo abierto"
+      ],
+      "plataform": [
+        "PlayStation 3",
+        "PlayStation 4",
+        "PlayStation 5",
+        "Xbox 360",
+        "Xbox One",
+        "Xbox Series X/S",
+        "Microsoft Windows"
+      ],
+      "developer": "Rockstar North",
+      "release date": "17 de septiembre de 2013",
+      "awards": [
+        "The Game Awards 2013 - Nominado a Juego del Año",
+        "Golden Joystick Awards 2013 - Mejor Juego de Acción",
+        "BAFTA Games Awards 2014 - Mejor Juego",
+        "D.I.C.E. Awards 2014 - Juego del Año"
+      ],
+      "copiesSold": "160 millones de copias vendidas"
     },
     {
-       "id": "game011",
-        "name": "Pokémon Legends: Arceus",
-        "image": "",
-        "info": "Pokémon Legends: Arceus es un juego de rol de acción desarrollado por Game Freak. Ambientado en la región de Hisui, una versión primitiva de Sinnoh, el juego introduce una jugabilidad más abierta y dinámica que los juegos tradicionales de la serie. Los jugadores asumen el rol de un joven investigador de la Pokédex que explora un mundo abierto, captura Pokémon y se enfrenta a desafíos mientras busca a Arceus, el Pokémon creador del universo.",
-        "genre": ["rol", "acción", "aventura", "mundo abierto"],
-        "plataform": ["Nintendo Switch"],
-        "developer": "Game Freak",
-        "release date": "28 de enero de 2022",
-        "awards": [
+      "id": "game011",
+      "name": "Pokémon Legends: Arceus",
+      "image": "",
+      "info": "Pokémon Legends: Arceus es un juego de rol de acción desarrollado por Game Freak. Ambientado en la región de Hisui, una versión primitiva de Sinnoh, el juego introduce una jugabilidad más abierta y dinámica que los juegos tradicionales de la serie. Los jugadores asumen el rol de un joven investigador de la Pokédex que explora un mundo abierto, captura Pokémon y se enfrenta a desafíos mientras busca a Arceus, el Pokémon creador del universo.",
+      "genre": [
+        "rol",
+        "acción",
+        "aventura",
+        "mundo abierto"
+      ],
+      "plataform": [
+        "Nintendo Switch"
+      ],
+      "developer": "Game Freak",
+      "release date": "28 de enero de 2022",
+      "awards": [
         "The Game Awards 2022 - Nominado a Mejor Juego de Rol",
         "Golden Joystick Awards 2022 - Mejor Juego de Rol",
         "Famitsu Awards 2022 - Mejor Juego de Rol"
-    ],
-        "copiesSold": "14,63 millones de copias vendidas"
-
+      ],
+      "copiesSold": "14,63 millones de copias vendidas"
     },
     {
-        "id": "game012",
-        "name": "Halo Infinite",
-        "image": "",
-        "info": "Halo Infinite es un juego de disparos en primera persona desarrollado por 343 Industries. La historia sigue al Jefe Maestro mientras lucha contra el Covenant y el nuevo enemigo, los 'Banished', en un mundo abierto dentro del anillo Halo. El juego ofrece una experiencia de campaña profunda, un multijugador competitivo gratuito y gráficos de última generación, destacando la libertad en la exploración del anillo Halo.",
-        "genre": ["disparos en primera persona", "acción", "ciencia ficción", "multijugador"],
-        "plataform": ["Xbox One", "Xbox Series X/S", "Microsoft Windows"],
-        "developer": "343 Industries",
-        "release date": "8 de diciembre de 2021",
-        "awards": [
+      "id": "game012",
+      "name": "Halo Infinite",
+      "image": "",
+      "info": "Halo Infinite es un juego de disparos en primera persona desarrollado por 343 Industries. La historia sigue al Jefe Maestro mientras lucha contra el Covenant y el nuevo enemigo, los 'Banished', en un mundo abierto dentro del anillo Halo. El juego ofrece una experiencia de campaña profunda, un multijugador competitivo gratuito y gráficos de última generación, destacando la libertad en la exploración del anillo Halo.",
+      "genre": [
+        "disparos en primera persona",
+        "acción",
+        "ciencia ficción",
+        "multijugador"
+      ],
+      "plataform": [
+        "Xbox One",
+        "Xbox Series X/S",
+        "Microsoft Windows"
+      ],
+      "developer": "343 Industries",
+      "release date": "8 de diciembre de 2021",
+      "awards": [
         "The Game Awards 2021 - Nominado a Mejor Juego de Acción",
         "Golden Joystick Awards 2021 - Nominado a Mejor Juego de Acción",
         "BAFTA Games Awards 2022 - Nominado a Mejor Juego de Acción"
-    ],
-        "copiesSold": "Más de 10 millones de copias"
-},
-
+      ],
+      "copiesSold": "Más de 10 millones de copias"
+    },
     {
-        "id": "game013",
-        "name": "Red Dead Redemption 2",
-        "image": "",
-         "info": "Red Dead Redemption 2 es un juego de acción y aventura de mundo abierto desarrollado por Rockstar Games. Ambientado en 1899, el juego sigue a Arthur Morgan, un miembro de la banda de Dutch van der Linde, mientras navega por un mundo lleno de traiciones, lealtades rotas y un envejecido lejano oeste. El título se destaca por su detallado mundo abierto, su narrativa profunda y su jugabilidad que combina exploración, combate y actividades secundarias.",
-        "genre": ["acción", "aventura", "mundo abierto", "rol"],
-        "plataform": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Stadia"],
-        "developer": "Rockstar Games",
-        "release date": "26 de octubre de 2018",
-        "awards": [
+      "id": "game013",
+      "name": "Red Dead Redemption 2",
+      "image": "",
+      "info": "Red Dead Redemption 2 es un juego de acción y aventura de mundo abierto desarrollado por Rockstar Games. Ambientado en 1899, el juego sigue a Arthur Morgan, un miembro de la banda de Dutch van der Linde, mientras navega por un mundo lleno de traiciones, lealtades rotas y un envejecido lejano oeste. El título se destaca por su detallado mundo abierto, su narrativa profunda y su jugabilidad que combina exploración, combate y actividades secundarias.",
+      "genre": [
+        "acción",
+        "aventura",
+        "mundo abierto",
+        "rol"
+      ],
+      "plataform": [
+        "PlayStation 4",
+        "Xbox One",
+        "Microsoft Windows",
+        "Stadia"
+      ],
+      "developer": "Rockstar Games",
+      "release date": "26 de octubre de 2018",
+      "awards": [
         "The Game Awards 2018 - Juego del Año",
         "Golden Joystick Awards 2018 - Mejor Juego de Acción/Aventura",
         "BAFTA Games Awards 2019 - Mejor Juego",
         "D.I.C.E. Awards 2019 - Juego del Año"
-    ],
-        "copiesSold": "50 millones de copias vendidas"
-
+      ],
+      "copiesSold": "50 millones de copias vendidas"
     },
     {
-        "id": "game014",
-        "name": "Resident Evil Village (Resident Evil 8)",
-        "image": "",
-         "info": "Resident Evil Village es un juego de terror y supervivencia en tercera persona, desarrollado por Capcom. Continuando la historia de Ethan Winters, quien busca a su hija secuestrada en un misterioso pueblo europeo, el juego combina elementos clásicos de la serie con una jugabilidad más centrada en la acción. Enfrentando criaturas sobrenaturales y monstruos, el título ofrece una atmósfera tensa y una narrativa profunda en el universo de Resident Evil.",
-        "genre": ["terror", "supervivencia", "acción", "aventura"],
-        "plataform": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Microsoft Windows"],
-         "developer": "Capcom",
-        "release date": "7 de mayo de 2021",
-        "awards": [
+      "id": "game014",
+      "name": "Resident Evil Village (Resident Evil 8)",
+      "image": "",
+      "info": "Resident Evil Village es un juego de terror y supervivencia en tercera persona, desarrollado por Capcom. Continuando la historia de Ethan Winters, quien busca a su hija secuestrada en un misterioso pueblo europeo, el juego combina elementos clásicos de la serie con una jugabilidad más centrada en la acción. Enfrentando criaturas sobrenaturales y monstruos, el título ofrece una atmósfera tensa y una narrativa profunda en el universo de Resident Evil.",
+      "genre": [
+        "terror",
+        "supervivencia",
+        "acción",
+        "aventura"
+      ],
+      "plataform": [
+        "PlayStation 4",
+        "PlayStation 5",
+        "Xbox One",
+        "Xbox Series X/S",
+        "Microsoft Windows"
+      ],
+      "developer": "Capcom",
+      "release date": "7 de mayo de 2021",
+      "awards": [
         "The Game Awards 2021 - Mejor Juego de Acción/Aventura",
         "Golden Joystick Awards 2021 - Mejor Juego de Acción",
         "BAFTA Games Awards 2022 - Mejor Juego de Terror"
-    ],
-        "copiesSold": "12 millones de copias vendidas"
-
+      ],
+      "copiesSold": "12 millones de copias vendidas"
     },
     {
-        "id": "game015",
-        "name": "inFAMOUS",
-        "image": "",
-        "info": "inFAMOUS es un juego de acción y aventura de mundo abierto desarrollado por Sucker Punch Productions. Los jugadores controlan a Cole MacGrath, un mensajero que, después de un extraño accidente, adquiere poderes eléctricos. El juego ofrece la posibilidad de elegir entre dos caminos: el héroe o el villano, lo que afecta las misiones, el entorno y la narrativa. El juego es conocido por su jugabilidad dinámica y las decisiones morales que el jugador debe tomar.",
-        "genre": ["acción", "aventura", "mundo abierto", "superpoderes"],
-        "plataform": ["PlayStation 3"],
-        "developer": "Sucker Punch Productions",
-        "release date": "26 de mayo de 2009",
-        "awards": [
+      "id": "game015",
+      "name": "inFAMOUS",
+      "image": "",
+      "info": "inFAMOUS es un juego de acción y aventura de mundo abierto desarrollado por Sucker Punch Productions. Los jugadores controlan a Cole MacGrath, un mensajero que, después de un extraño accidente, adquiere poderes eléctricos. El juego ofrece la posibilidad de elegir entre dos caminos: el héroe o el villano, lo que afecta las misiones, el entorno y la narrativa. El juego es conocido por su jugabilidad dinámica y las decisiones morales que el jugador debe tomar.",
+      "genre": [
+        "acción",
+        "aventura",
+        "mundo abierto",
+        "superpoderes"
+      ],
+      "plataform": [
+        "PlayStation 3"
+      ],
+      "developer": "Sucker Punch Productions",
+      "release date": "26 de mayo de 2009",
+      "awards": [
         "Spike Video Game Awards 2009 - Mejor Juego de Acción",
         "Golden Joystick Awards 2009 - Nominado a Mejor Juego de Acción"
-    ],
-        "copiesSold": "6 millones de copias vendidas"
-
+      ],
+      "copiesSold": "6 millones de copias vendidas"
     },
     {
-        "id": "game016",
-       "name": "Guitar Hero III: Legends of Rock",
-        "image": "",
-        "info": "Guitar Hero III: Legends of Rock es un juego de ritmo y música desarrollado por Neversoft y publicado por Activision. Es la tercera entrega de la serie Guitar Hero y presenta una amplia lista de canciones de rock clásico y contemporáneo. Los jugadores usan un controlador de guitarra para tocar las notas al ritmo de la música. Este título introdujo el modo multijugador en línea y la posibilidad de tocar como personajes legendarios como Slash, de Guns N' Roses.",
-        "genre": ["ritmo", "musical", "acción"],
-        "plataform": ["PlayStation 2", "PlayStation 3", "Xbox 360", "Wii", "Microsoft Windows"],
-        "developer": "Neversoft",
-        "release date": "28 de octubre de 2007",
-        "awards": [
+      "id": "game016",
+      "name": "Guitar Hero III: Legends of Rock",
+      "image": "",
+      "info": "Guitar Hero III: Legends of Rock es un juego de ritmo y música desarrollado por Neversoft y publicado por Activision. Es la tercera entrega de la serie Guitar Hero y presenta una amplia lista de canciones de rock clásico y contemporáneo. Los jugadores usan un controlador de guitarra para tocar las notas al ritmo de la música. Este título introdujo el modo multijugador en línea y la posibilidad de tocar como personajes legendarios como Slash, de Guns N' Roses.",
+      "genre": [
+        "ritmo",
+        "musical",
+        "acción"
+      ],
+      "plataform": [
+        "PlayStation 2",
+        "PlayStation 3",
+        "Xbox 360",
+        "Wii",
+        "Microsoft Windows"
+      ],
+      "developer": "Neversoft",
+      "release date": "28 de octubre de 2007",
+      "awards": [
         "Spike Video Game Awards 2007 - Mejor Juego de Ritmo",
         "Golden Joystick Awards 2008 - Mejor Juego Musical",
         "BAFTA Games Awards 2008 - Mejor Juego Musical"
-    ],
-        "copiesSold": "14 millones de copias vendidas"
-
+      ],
+      "copiesSold": "14 millones de copias vendidas"
     },
     {
-        "id": "game017",
-        "name": "Prince of Persia: The Lost Crown",
-        "image": "",
-        "info": "Prince of Persia: The Lost Crown es un videojuego de acción y aventura de desplazamiento lateral desarrollado y publicado por Ubisoft. El juego presenta a Sargon, un joven miembro del clan guerrero Los Inmortales, quien debe viajar a la ciudad maldita del Monte Qaf para rescatar al Príncipe Ghassan, secuestrado por el general traidor Vahram. Sargon posee habilidades acrobáticas y puede utilizar poderes temporales para superar obstáculos y enemigos. El mundo del juego está interconectado, ofreciendo elementos de exploración y resolución de acertijos al estilo Metroidvania.",
-        "genre": ["acción", "aventura", "plataformas", "Metroidvania"],
-        "plataform": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "Microsoft Windows"],
-        "developer": "Ubisoft Montpellier",
-        "release date": "18 de enero de 2024",
-        "awards": [
+      "id": "game017",
+      "name": "Prince of Persia: The Lost Crown",
+      "image": "",
+      "info": "Prince of Persia: The Lost Crown es un videojuego de acción y aventura de desplazamiento lateral desarrollado y publicado por Ubisoft. El juego presenta a Sargon, un joven miembro del clan guerrero Los Inmortales, quien debe viajar a la ciudad maldita del Monte Qaf para rescatar al Príncipe Ghassan, secuestrado por el general traidor Vahram. Sargon posee habilidades acrobáticas y puede utilizar poderes temporales para superar obstáculos y enemigos. El mundo del juego está interconectado, ofreciendo elementos de exploración y resolución de acertijos al estilo Metroidvania.",
+      "genre": [
+        "acción",
+        "aventura",
+        "plataformas",
+        "Metroidvania"
+      ],
+      "plataform": [
+        "PlayStation 4",
+        "PlayStation 5",
+        "Xbox One",
+        "Xbox Series X/S",
+        "Nintendo Switch",
+        "Microsoft Windows"
+      ],
+      "developer": "Ubisoft Montpellier",
+      "release date": "18 de enero de 2024",
+      "awards": [
         "Metacritic Score: 86",
         "IGN Best Action-Adventure Game 2024",
         "Golden Joystick Awards 2024 - Nominado a Mejor Juego de Acción"
-    ],
-        "copiesSold": "1 millón de copias vendidas"
-
+      ],
+      "copiesSold": "1 millón de copias vendidas"
     },
     {
-        "id": "game018",
-        "name": "Sekiro: Shadows Die Twice",
-        "image": "",
-        "info": "Sekiro: Shadows Die Twice es un juego de acción y aventura desarrollado por FromSoftware, conocido por su dificultad desafiante. Ambientado en el Japón feudal, los jugadores controlan a un shinobi llamado Sekiro, quien busca rescatar a su joven señor y vengar su pérdida. El juego se destaca por su combate fluido, que combina la precisión de la espada con mecánicas de parry y sigilo. A diferencia de otros títulos de FromSoftware, Sekiro se enfoca en una narrativa más directa y un estilo de combate centrado en la habilidad y la estrategia.",
-        "genre": ["acción", "aventura", "rol", "hack and slash"],
-        "plataform": ["PlayStation 4", "Xbox One", "Microsoft Windows"],
-        "developer": "FromSoftware",
-        "release date": "22 de marzo de 2019",
-        "awards": [
+      "id": "game018",
+      "name": "Sekiro: Shadows Die Twice",
+      "image": "",
+      "info": "Sekiro: Shadows Die Twice es un juego de acción y aventura desarrollado por FromSoftware, conocido por su dificultad desafiante. Ambientado en el Japón feudal, los jugadores controlan a un shinobi llamado Sekiro, quien busca rescatar a su joven señor y vengar su pérdida. El juego se destaca por su combate fluido, que combina la precisión de la espada con mecánicas de parry y sigilo. A diferencia de otros títulos de FromSoftware, Sekiro se enfoca en una narrativa más directa y un estilo de combate centrado en la habilidad y la estrategia.",
+      "genre": [
+        "acción",
+        "aventura",
+        "rol",
+        "hack and slash"
+      ],
+      "plataform": [
+        "PlayStation 4",
+        "Xbox One",
+        "Microsoft Windows"
+      ],
+      "developer": "FromSoftware",
+      "release date": "22 de marzo de 2019",
+      "awards": [
         "The Game Awards 2019 - Juego del Año",
         "Golden Joystick Awards 2019 - Mejor Juego de Acción",
         "BAFTA Games Awards 2020 - Mejor Juego",
         "D.I.C.E. Awards 2020 - Juego del Año"
-    ],
-        "copiesSold": "5 millones de copias vendidas"
-
+      ],
+      "copiesSold": "5 millones de copias vendidas"
     },
     {
-        "id": "game019",
-        "name": "Ghost of Tsushima",
-        "image": "",
-        "info": "Ghost of Tsushima es un juego de acción y aventura en mundo abierto desarrollado por Sucker Punch Productions. Ambientado en el Japón feudal, los jugadores controlan a Jin Sakai, un samurái que lucha contra la invasión mongola en la isla de Tsushima. El juego destaca por su bellísimo mundo abierto inspirado en el Japón tradicional, su combate fluido basado en espada y el uso de sigilo y tácticas para derrotar a los enemigos. La narrativa sigue el viaje de Jin mientras lucha por mantener su honor y adaptarse a un nuevo estilo de combate para salvar a su pueblo.",
-        "genre": ["acción", "aventura", "mundo abierto", "samuráis"],
-        "plataform": ["PlayStation 4", "PlayStation 5"],
-        "developer": "Sucker Punch Productions",
-        "release date": "17 de julio de 2020",
-        "awards": [
+      "id": "game019",
+      "name": "Ghost of Tsushima",
+      "image": "",
+      "info": "Ghost of Tsushima es un juego de acción y aventura en mundo abierto desarrollado por Sucker Punch Productions. Ambientado en el Japón feudal, los jugadores controlan a Jin Sakai, un samurái que lucha contra la invasión mongola en la isla de Tsushima. El juego destaca por su bellísimo mundo abierto inspirado en el Japón tradicional, su combate fluido basado en espada y el uso de sigilo y tácticas para derrotar a los enemigos. La narrativa sigue el viaje de Jin mientras lucha por mantener su honor y adaptarse a un nuevo estilo de combate para salvar a su pueblo.",
+      "genre": [
+        "acción",
+        "aventura",
+        "mundo abierto",
+        "samuráis"
+      ],
+      "plataform": [
+        "PlayStation 4",
+        "PlayStation 5"
+      ],
+      "developer": "Sucker Punch Productions",
+      "release date": "17 de julio de 2020",
+      "awards": [
         "The Game Awards 2020 - Mejor Juego de Aventura",
         "Golden Joystick Awards 2020 - Mejor Juego de Acción",
         "BAFTA Games Awards 2021 - Mejor Juego de Acción",
         "D.I.C.E. Awards 2021 - Juego de Aventura del Año"
-    ],
-        "copiesSold": "8 millones de copias vendidas"
-
+      ],
+      "copiesSold": "8 millones de copias vendidas"
     },
-
     {
-       "id": "game020",
-        "name": "Elden Ring",
-        "image": "",
-        "info": "Elden Ring es un juego de rol y acción de mundo abierto desarrollado por FromSoftware y dirigido por Hidetaka Miyazaki, en colaboración con el autor de 'Juego de Tronos', George R. R. Martin. El juego se sitúa en el mundo de The Lands Between, donde los jugadores asumen el papel de un personaje conocido como el 'Tarnished', que busca restaurar el Elden Ring y convertirse en el Elden Lord. El juego combina la dificultad característica de FromSoftware con un mundo expansivo y un sistema de combate innovador.",
-        "genre": ["rol", "acción", "aventura", "mundo abierto"],
-        "plataform": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Microsoft Windows"],
-        "developer": "FromSoftware",
-        "release date": "25 de febrero de 2022",
-        "awards": [
+      "id": "game020",
+      "name": "Elden Ring",
+      "image": "",
+      "info": "Elden Ring es un juego de rol y acción de mundo abierto desarrollado por FromSoftware y dirigido por Hidetaka Miyazaki, en colaboración con el autor de 'Juego de Tronos', George R. R. Martin. El juego se sitúa en el mundo de The Lands Between, donde los jugadores asumen el papel de un personaje conocido como el 'Tarnished', que busca restaurar el Elden Ring y convertirse en el Elden Lord. El juego combina la dificultad característica de FromSoftware con un mundo expansivo y un sistema de combate innovador.",
+      "genre": [
+        "rol",
+        "acción",
+        "aventura",
+        "mundo abierto"
+      ],
+      "plataform": [
+        "PlayStation 4",
+        "PlayStation 5",
+        "Xbox One",
+        "Xbox Series X/S",
+        "Microsoft Windows"
+      ],
+      "developer": "FromSoftware",
+      "release date": "25 de febrero de 2022",
+      "awards": [
         "The Game Awards 2022 - Juego del Año",
         "Golden Joystick Awards 2022 - Mejor Juego de Acción/Aventura",
         "BAFTA Games Awards 2022 - Mejor Juego",
         "D.I.C.E. Awards 2022 - Juego del Año"
-    ],
-        "copiesSold": "20 millones de copias vendidas"
-
+      ],
+      "copiesSold": "20 millones de copias vendidas"
     }
-],
-
-"commentaries":[
-    {
-        "id":"coment001",
-        "userName": "MarioFan123",
-        "favs": "🌟",
-        "coment": "¡Este juego es increíble! La jugabilidad es fluida y los niveles son tan creativos. Cappy es un gran añadido al juego. Definitivamente uno de los mejores juegos de la serie Mario.",
-        "dayPublish": "12 de mayo de 2020",
-        "gameId": "game001"
-    },
-    {
-        "id":"coment002",
-        "userName": "GamerX92",
-        "favs": "👎",
-        "coment": "Es un buen juego, pero no me gusta cómo algunas mecánicas, como las capturas, afectan la jugabilidad. Algunas se sienten demasiado forzadas. Aún así, es divertido.",
-        "dayPublish": "5 de octubre de 2021",
-        "gameId": "game001"
-    },
-    {
-        "id":"coment003",
-        "userName": "Luna_Sun",
-        "favs": "👎",
-        "coment": "Lo encontré bastante aburrido después de un par de horas. Hay algo en la estructura que no me engancha tanto como otros juegos de Mario. Aun así, la gráfica es preciosa.",
-        "dayPublish": "23 de noviembre de 2019",
-        "gameId": "game001"
-    },
-    {
-        "id":"coment004",
-        "userName": "PixelMaster",
-        "favs": "🌟",
-        "coment": "¡Uno de los mejores títulos de la Nintendo Switch! Me encantan las zonas abiertas y la sensación de exploración. Un gran homenaje a la franquicia.",
-        "dayPublish": "18 de enero de 2021",
-        "gameId": "game001"
-    },
-    {
-        "id":"coment005",
-        "userName": "HunterMaster",
-        "favs": "🌟",
-        "coment": "Bloodborne es una obra maestra de FromSoftware. La atmósfera oscura y la jugabilidad desafiante hacen que cada batalla sea inolvidable. Es uno de los mejores juegos de acción que he jugado.",
-        "dayPublish": "15 de junio de 2018",
-        "gameId": "game002"
-    },
-    {
-        "id":"coment006",
-        "userName": "NightmareWalker",
-        "favs": "👎",
-        "coment": "Aunque la ambientación es impresionante, me resultó muy difícil y frustrante. La dificultad puede ser un obstáculo para disfrutar del juego en su totalidad.",
-        "dayPublish": "29 de agosto de 2019",
-        "gameId": "game002"
-    },
-    {
-        "id":"coment007",
-        "userName": "BloodMoonKing",
-        "favs": "👎",
-        "coment": "No soy fan del estilo de combate y el mundo tan oscuro. La falta de explicaciones en la historia me dejó perdido, y las mecánicas no son de mi agrado.",
-        "dayPublish": "11 de noviembre de 2020",
-        "gameId": "game002"
-    },
-    {
-        "id":"coment008",
-        "userName": "DarkSoulsFan01",
-        "favs": "🌟",
-        "coment": "Un juego extremadamente desafiante, pero tan gratificante cuando superas los enemigos más difíciles. La historia está oculta de forma intrigante y la jugabilidad es fluida.",
-        "dayPublish": "3 de febrero de 2021",
-        "gameId": "game002"
-    },
-    
-    {
-        "id":"coment009",
-        "userName": "PuppetMaster23",
-        "favs": "🌟",
-        "coment": "Lies of P es un juego impresionante. La historia oscura y el mundo steampunk están muy bien logrados. El combate es desafiante pero gratificante. ¡No puedo esperar a ver más!",
-        "dayPublish": "14 de septiembre de 2023",
-        "gameId": "game003"
-    },
-    {
-        "id":"coment010",
-        "userName": "GameSeeker85",
-        "favs": "👎",
-        "coment": "Aunque la atmósfera es interesante, me parece que el juego no ofrece nada realmente innovador en comparación con otros juegos del género. El combate puede volverse monótono después de un tiempo.",
-        "dayPublish": "8 de octubre de 2023",
-        "gameId": "game003"
-    },
-    {
-        "id":"coment011",
-        "userName": "DarkLoreFan",
-        "favs": "👎",
-        "coment": "A pesar de tener una narrativa prometedora, el ritmo del juego no me enganchó. La mecánica de combate es sólida, pero la historia se siente forzada.",
-        "dayPublish": "25 de noviembre de 2023",
-        "gameId": "game003"
-    },
-    {
-        "id":"coment012",
-        "userName": "EpicGamer92",
-        "favs": "🌟",
-        "coment": "Me ha sorprendido gratamente. El diseño del mundo es fascinante y el combate tiene mucha profundidad. Un juego que todo fan de los soulslike debería probar.",
-        "dayPublish": "19 de diciembre de 2023",
-        "gameId": "game003"
-    }, {
-        "id":"coment013",
-        "userName": "WukongFan23",
-        "favs": "🌟",
-        "coment": "¡Este juego tiene un potencial increíble! Los gráficos y el combate son impresionantes. La mezcla de mitología china con acción es un sueño hecho realidad. ¡Definitivamente uno de los más esperados!",
-        "dayPublish": "1 de diciembre de 2023",
-        "gameId": "game004"
-    },
-    {
-        "id":"coment014",
-        "userName": "GamerX_21",
-        "favs": "👎",
-        "coment": "El juego se ve impresionante, pero aún se siente muy crudo. La jugabilidad necesita pulirse más antes de que pueda ser algo realmente grande. Aún tengo dudas sobre cómo se desarrollará.",
-        "dayPublish": "16 de enero de 2024",
-        "gameId": "game004"
-    },
-    {
-        "id":"coment015",
-        "userName": "DragonSlayer98",
-        "favs": "👎",
-        "coment": "A pesar de la increíble dirección artística, el combate se siente algo repetitivo y lento. Necesitan trabajar más en la fluidez de las mecánicas si quieren competir con otros títulos de acción.",
-        "dayPublish": "4 de febrero de 2024",
-        "gameId": "game004"
-    },
-    {
-        "id":"coment016",
-        "userName": "LegendaryPlayer",
-        "favs": "🌟",
-        "coment": "Me encanta la mitología detrás del juego, y el sistema de combate parece muy pulido. Espero que logren mantener la calidad que muestran en los avances. ¡Va a ser épico!",
-        "dayPublish": "28 de noviembre de 2023",
-        "gameId": "game004"
-    },
-    {
-        "id":"coment017",
-        "userName": "SamusFan88",
-        "favs": "🌟",
-        "coment": "Metroid Dread es una increíble continuación de la saga. La jugabilidad es perfecta, el ambiente es tenso y el regreso a la acción 2D es todo lo que esperábamos. ¡Samus sigue siendo la mejor!",
-        "dayPublish": "9 de octubre de 2021",
-        "gameId": "game005"
-    },
-    {
-        "id":"coment018",
-        "userName": "SpaceExplorer101",
-        "favs": "👎",
-        "coment": "El juego se ve genial, pero la dificultad me resulta excesiva y las mecánicas de los enemigos 'EMMIs' se sienten demasiado forzadas. No es tan disfrutable como los juegos anteriores de la saga.",
-        "dayPublish": "16 de octubre de 2021",
-        "gameId": "game005"
-    },
-    {
-        "id":"coment019",
-        "userName": "RetroGamer22",
-        "favs": "👎",
-        "coment": "Aunque la jugabilidad es sólida, no puedo evitar sentir que el juego se queda corto en comparación con otros títulos de la franquicia. Algunas mecánicas podrían haberse mejorado.",
-        "dayPublish": "5 de noviembre de 2021",
-        "gameId": "game005"
-    },
-    {
-        "id":"coment020",
-        "userName": "SciFiLover",
-        "favs": "🌟",
-        "coment": "Es una joya. La atmósfera es perfecta, el combate es desafiante y la historia es increíblemente intrigante. ¡Un gran regreso para Samus!",
-        "dayPublish": "19 de octubre de 2021",
-        "gameId": "game005"
-    },
-    {
-        "id":"coment021",
-        "userName": "RoninMaster",
-        "favs": "🌟",
-        "coment": "Rise of the Ronin ha capturado perfectamente la esencia de los samuráis y el Japón feudal. Los gráficos son impresionantes, y el combate se siente fluido y brutal. Este juego promete ser una joya.",
-        "dayPublish": "3 de diciembre de 2023",
-        "gameId": "game006"
-    },
-    {
-        "id":"coment022",
-        "userName": "KatanaWarrior",
-        "favs": "👎",
-        "coment": "Aunque la historia y la ambientación son interesantes, el combate no me ha convencido. El ritmo es un poco lento y las mecánicas de lucha parecen demasiado rígidas.",
-        "dayPublish": "15 de enero de 2024",
-        "gameId": "game006"
-    },
-    {
-        "id":"coment023",
-        "userName": "BushidoGamer",
-        "favs": "🌟",
-        "coment": "Una experiencia inmersiva. El mundo abierto, la historia profunda y el sistema de combate me tienen enganchado. Es lo que siempre quise de un juego de samuráis.",
-        "dayPublish": "25 de noviembre de 2023"
-,
-        "gameId": "game006"
-    },
-    {
-        "id":"coment024",
-        "userName": "ShogunPlayer01",
-        "favs": "👎",
-        "coment": "No me terminó de enganchar. A pesar de tener buenos elementos, el juego no se siente tan fluido y a veces se vuelve repetitivo. Tenía expectativas más altas.",
-        "dayPublish": "8 de diciembre de 2023",
-        "gameId": "game006"
-    },
-    {
-        "id":"coment025",
-"userName": "VikingLegend98",
-        "favs": "🌟",
-        "coment": "Assassin's Creed Valhalla es una obra maestra. La historia es envolvente, el mundo abierto es vasto y hermoso, y las mecánicas de combate son increíblemente satisfactorias. Me ha dejado sin palabras.",
-        "dayPublish": "2 de noviembre de 2020",
-        "gameId": "game007"
-    },
-    {
-        "id":"coment026",
-        "userName": "EivorWarrior",
-        "favs": "👎",
-        "coment": "El juego es bonito, pero se siente repetitivo. Las misiones secundarias son muy similares entre sí y la historia no tiene la misma profundidad que otros juegos de la saga.",
-        "dayPublish": "10 de diciembre de 2020",
-        "gameId": "game007"
-    },
-    {
-        "id":"coment027",
-        "userName": "StealthAssassin",
-        "favs": "🌟",
-        "coment": "Me encanta cómo han mejorado el combate y la exploración en el mundo abierto. Aunque algunas mecánicas podrían pulirse, el juego es una excelente adición a la serie.",
-        "dayPublish": "18 de noviembre de 2020",
-        "gameId": "game007"
-    },
-    {
-        "id":"coment028",
-        "userName": "BerserkerHunter",
-        "favs": "👎",
-        "coment": "No soy fan de la dirección que ha tomado la saga. El juego es demasiado largo y se siente algo pesado a veces. Las mecánicas de combate, aunque buenas, no logran mantener mi interés.",
-        "dayPublish": "21 de diciembre de 2020",
-        "gameId": "game007"
-    },
-    {
-        "id":"coment029",
-        "userName": "FootballFanX",
-        "favs": "🌟",
-        "coment": "¡EA Sports FC 25 ha superado mis expectativas! Los gráficos son impresionantes, la jugabilidad es fluida y las nuevas mecánicas de juego realmente mejoran la experiencia. ¡Este es el mejor simulador de fútbol hasta ahora!",
-        "dayPublish": "5 de octubre de 2024",
-        "gameId": "game008"
-    },
-    {
-        "id":"coment030",
-        "userName": "GameCritic2024",
-        "favs": "👎",
-        "coment": "El juego es bastante bueno, pero algunas animaciones siguen siendo poco realistas y el modo carrera podría tener más profundidad. En general, siento que no hay grandes avances respecto a los títulos anteriores.",
-        "dayPublish": "15 de octubre de 2024",
-        "gameId": "game008"
-    },
-    {
-        "id":"coment031",
-        "userName": "SoccerLover92",
-        "favs": "👎",
-        "coment": "Aunque el juego tiene mejoras gráficas, la jugabilidad sigue siendo muy similar a los anteriores. Me esperaba algo más innovador en este nuevo capítulo de la serie.",
-        "dayPublish": "20 de octubre de 2024",
-        "gameId": "game008"
-    },
-    {
-        "id":"coment032",
-        "userName": "ProGamer22",
-        "favs": "🌟",
-        "coment": "¡Una gran adición a la saga! El modo Ultimate Team está más pulido que nunca y el sistema de habilidades mejora mucho la dinámica de juego. Definitivamente el juego de fútbol más realista hasta la fecha.",
-        "dayPublish": "28 de septiembre de 2024",
-        "gameId": "game008"
-    },
-    {
-        "id":"coment033",
-        "userName": "KratosFan92",
-        "favs": "🌟",
-        "coment": "¡Este juego es una obra maestra! La historia de Kratos y Atreus es profundamente emotiva, el combate es brutal y la atmósfera de todo el mundo nórdico es impresionante. Definitivamente uno de los mejores juegos de la generación.",
-        "dayPublish": "20 de abril de 2018",
-        "gameId": "game009"
-    },
-    {
-        "id":"coment034",
-        "userName": "FuryHunter",
-        "favs": "👎",
-        "coment": "Aunque el juego es visualmente hermoso y tiene una historia sólida, la jugabilidad me pareció repetitiva. Algunas mecánicas de combate no me convencieron y me costó un poco engancharme.",
-        "dayPublish": "5 de mayo de 2018",
-        "gameId": "game009"
-    },
-    {
-        "id":"coment035",
-        "userName": "Godslayer_88",
-        "favs": "🌟",
-        "coment": "Una experiencia inolvidable. Kratos muestra una nueva faceta de su personalidad y la relación con Atreus es maravillosa. El combate fluido y el diseño del mundo nórdico son impresionantes.",
-        "dayPublish": "10 de abril de 2018",
-        "gameId": "game009"
-    },
-    {
-        "id":"coment036",
-        "userName": "VikingSoul",
-        "favs": "👎",
-        "coment": "Aunque el juego tiene una buena narrativa, se siente más como un juego de aventuras genérico que un God of War clásico. Extrañé el estilo de combate rápido y frenético de los anteriores.",
-        "dayPublish": "18 de abril de 2018",
-        "gameId": "game009"
-    },
-    {
-        "id":"coment037",
-        "userName": "LosSantosKing",
-        "favs": "🌟",
-        "coment": "GTA V es un juego legendario. La historia es increíblemente entretenida, el mundo abierto es vasto y lleno de actividades, y el modo online siempre tiene algo nuevo para ofrecer. ¡Una obra maestra de la industria!",
-        "dayPublish": "17 de septiembre de 2013",
-        "gameId": "game010"
-    },
-    {
-        "id":"coment038",
-        "userName": "RebelGamer101",
-        "favs": "👎",
-        "coment": "Aunque el mundo es grande, siento que el juego está muy enfocado en el aspecto de los disparos y los vehículos. Las misiones a veces son repetitivas y el enfoque en el crimen me dejó algo insatisfecho.",
-        "dayPublish": "22 de septiembre de 2013",
-        "gameId": "game010"
-    },
-    {
-        "id":"coment039",
-        "userName": "StreetRacer99",
-        "favs": "🌟",
-        "coment": "La cantidad de cosas que puedes hacer en GTA V es impresionante. Desde carreras hasta misiones de historia, pasando por actividades aleatorias en la ciudad. Cada rincón de Los Santos tiene algo que explorar.",
-        "dayPublish": "5 de octubre de 2013",
-        "gameId": "game010"
-    },
-    {
-        "id":"coment040",
-        "userName": "ViceCityVibes",
-        "favs": "👎",
-        "coment": "El juego es grandioso, pero siento que la historia de los tres protagonistas no está tan bien conectada. Además, algunas misiones se sienten forzadas y no tan naturales como en otros GTA.",
-        "dayPublish": "12 de octubre de 2013",
-        "gameId": "game010"
-    },
-    {
-        "id":"coment041",
-        "userName": "PokémonMaster01",
-        "favs": "🌟",
-        "coment": "¡Este es el juego de Pokémon que estaba esperando! La jugabilidad abierta, la exploración y la captura de Pokémon de manera más libre y dinámica hacen que la experiencia sea fresca y emocionante. Arceus tiene todo lo que los fans querían.",
-        "dayPublish": "28 de enero de 2022",
-        "gameId": "game011"
-    },
-    {
-        "id":"coment042",
-        "userName": "PokéFan88",
-        "favs": "👎",
-        "coment": "Aunque la idea de un mundo abierto en Pokémon es genial, siento que los gráficos no son tan buenos y la historia es algo simple. Esperaba una experiencia más pulida y con más contenido.",
-        "dayPublish": "2 de febrero de 2022",
-        "gameId": "game011"
-    },
-    {
-        "id":"coment043",
-        "userName": "LegendaryTrainer",
-        "favs": "🌟",
-        "coment": "Este es el mejor juego de Pokémon en años. La libertad de explorar el mundo y la captura de Pokémon de forma tan natural me ha enganchado por completo. El cambio de fórmula ha sido un acierto.",
-        "dayPublish": "5 de febrero de 2022",
-        "gameId": "game011"
-    },
-    {
-        "id":"coment044",
-        "userName": "EeveeFan22",
-        "favs": "👎",
-        "coment": "A pesar de ser innovador, el juego se siente un poco vacío en algunas áreas. Las misiones secundarias se repiten mucho y no hay tanto contenido como esperaba en un mundo tan grande.",
-        "dayPublish": "10 de febrero de 2022",
-        "gameId": "game011"
-    },
-    {
-        "id":"coment045",
-        "userName": "Spartan112",
-        "favs": "🌟",
-        "coment": "Halo Infinite ha regresado con todo. La campaña tiene una historia envolvente y el mundo abierto es impresionante. El regreso de Master Chief es épico, y el modo multijugador sigue siendo una de las mejores experiencias en shooters.",
-        "dayPublish": "8 de diciembre de 2021",
-        "gameId": "game012"
-    },
-    {
-        "id":"coment046",
-        "userName": "CovenantHunter",
-        "favs": "👎",
-        "coment": "Aunque el juego tiene grandes gráficos y una jugabilidad sólida, el modo multijugador está un poco desbalanceado y la falta de contenido en el lanzamiento me decepcionó. Había muchas expectativas",
-        "dayPublish": "15 de diciembre de 2021",
-        "gameId": "game012"
-    },
-    {
-        "id":"coment047",
-        "userName": "MasterChiefFan24",
-        "favs": "🌟",
-        "coment": "Un regreso impresionante para la saga. La campaña es muy entretenida, y la exploración en el mundo abierto es una gran adición. No puedo esperar para ver qué más traerán en futuras actualizaciones.",
-        "dayPublish": "10 de diciembre de 2021",
-        "gameId": "game012"
-    },
-    {
-        "id":"coment048",
-        "userName": "ODST_Elite",
-        "favs": "👎",
-        "coment": "El juego está bien, pero siento que le falta algo. La historia no me atrapó tanto como en otros Halo y el modo multijugador tiene demasiado 'microtransacciones'. Necesita más pulido.",
-        "dayPublish": "18 de diciembre de 2021",
-        "gameId": "game012"
-    },
-    {
-        "id":"coment049",
-        "userName": "OutlawLegend",
-        "favs": "🌟",
-        "coment": "Red Dead Redemption 2 es una obra maestra. La historia es profunda, los personajes son complejos, y el mundo abierto es impresionante. Cada detalle de este juego está cuidado al máximo. ¡Una experiencia inolvidable!",
-        "dayPublish": "26 de octubre de 2018",
-        "gameId": "game013"
-    },
-    {
-        "id":"coment050",
-        "userName": "Gunslinger23",
-        "favs": "👎",
-        "coment": "El juego tiene una gran historia y un mundo increíblemente detallado, pero a veces se siente un poco lento. Las misiones secundarias pueden ser tediosas y la jugabilidad no siempre es tan fluida como esperaba.",
-        "dayPublish": "30 de octubre de 2018",
-        "gameId": "game013"
-    },
-    {
-        "id":"coment051",
-        "userName": "VikingOutlaw",
-        "favs": "🌟",
-        "coment": "Una de las mejores experiencias de juego que he tenido. La narrativa es épica, el mundo es tan detallado que puedes perderte explorando, y las mecánicas de caza y supervivencia añaden una capa extra de realismo.",
-        "dayPublish": "1 de noviembre de 2018",
-        "gameId": "game013"
-    },
-    {
-        "id":"coment052",
-        "userName": "RedDeadFan94",
-        "favs": "👎",
-        "coment": "El juego es increíblemente detallado, pero a veces la jugabilidad se siente lenta y las interacciones con otros personajes pueden ser largas y tediosas. No es para todos.",
-        "dayPublish": "5 de noviembre de 2018",
-        "gameId": "game013"
-    },
-    {
-        "id":"coment053",
-        "userName": "UmbrellaSurvivor",
-        "favs": "🌟",
-        "coment": "Resident Evil Village es una obra maestra. La mezcla de acción y horror es perfecta, y la historia está llena de giros emocionantes. Los personajes como Lady Dimitrescu son inolvidables. ¡Un imprescindible para los fans del género!",
-        "dayPublish": "7 de mayo de 2021",
-        "gameId": "game014"
-    },
-    {
-        "id":"coment054",
-        "userName": "EthanHunter",
-        "favs": "👎",
-        "coment": "Aunque la jugabilidad es buena y los gráficos son impresionantes, la historia no me terminó de enganchar. Además, el cambio hacia más acción en comparación con los anteriores juegos de la saga no fue lo que esperaba.",
-        "dayPublish": "10 de mayo de 2021",
-        "gameId": "game014"
-    },
-    {
-        "id":"coment055",
-        "userName": "ResidentEvilFan92",
-        "favs": "🌟",
-        "coment": "Este juego me dejó sin aliento. El diseño de los enemigos, la atmósfera y las mecánicas de juego hacen que cada segundo sea emocionante. Me encantó la experiencia en su totalidad.",
-        "dayPublish": "12 de mayo de 2021",
-        "gameId": "game014"
-    },
-    {
-        "id":"coment056",
-        "userName": "LickerKing",
-        "favs": "👎",
-        "coment": "El juego es entretenido, pero siento que perdió algo de la atmósfera de terror clásico de Resident Evil. Hay más acción y menos suspenso, lo que no me parece tan interesante como los títulos anteriores.",
-        "dayPublish": "15 de mayo de 2021",
-        "gameId": "game014"
-    },
-    {
-        "id":"coment057",
-        "userName": "ElectricHero",
-        "favs": "🌟",
-        "coment": "Un juego increíblemente divertido. La mecánica de poderes eléctricos es muy satisfactoria y la historia te mantiene enganchado. Además, las decisiones morales añaden una gran rejugabilidad.",
-        "dayPublish": "12 de junio de 2009",
-        "gameId": "game015"
-    },
-    {
-        "id":"coment058",
-        "userName": "DarkKarma",
-        "favs": "👎",
-        "coment": "El concepto es genial, pero la historia no me atrapó tanto como esperaba. Además, los controles pueden sentirse un poco toscos en algunas secciones del juego.",
-        "dayPublish": "15 de junio de 2009",
-        "gameId": "game015"
-    },
-    {
-        "id":"coment059",
-        "userName": "ConduitX",
-        "favs": "🌟",
-        "coment": "El sistema de karma y la exploración hacen que este juego sea muy especial. Cole es un gran protagonista y las habilidades eléctricas son súper entretenidas. Lo recomiendo totalmente.",
-        "dayPublish": "20 de junio de 2009",
-        "gameId": "game015"
-    },
-    {
-        "id":"coment060",
-        "userName": "NeonRider",
-        "favs": "👎",
-        "coment": "Buen juego, pero siento que la ciudad se siente vacía en algunos momentos y que la IA de los enemigos no es tan desafiante. Podría haber tenido más variedad en las misiones secundarias.",
-        "dayPublish": "25 de junio de 2009",
-        "gameId": "game015"
-    },
-    {
-        "id":"coment061",
-        "userName": "RockstarX",
-        "favs": "🌟",
-        "coment": "Este juego es una leyenda. La selección de canciones es increíble y la jugabilidad sigue siendo adictiva hasta el día de hoy. ¡Nada como enfrentarse a Slash en un duelo de guitarra!",
-        "dayPublish": "28 de octubre de 2007",
-        "gameId": "game016"
-    },
-    {
-        "id":"coment062",
-        "userName": "SoloMaster",
-        "favs": "👎",
-        "coment": "Es un buen juego, pero en dificultad alta algunas canciones son simplemente frustrantes. Se siente injusto en lugar de desafiante en ciertos momentos.",
-        "dayPublish": "2 de noviembre de 2007",
-        "gameId": "game016"
-    },
-    {
-        "id":"coment063",
-        "userName": "MetalFreak99",
-        "favs": "🌟",
-        "coment": "La mejor entrega de Guitar Hero sin duda. Horas de diversión con amigos y un gran setlist que incluye clásicos del rock y metal. No me canso de jugarlo.",
-        "dayPublish": "5 de noviembre de 2007",
-        "gameId": "game016"
-    },
-    {
-        "id":"coment064",
-        "userName": "StringBreaker",
-        "favs": "👎",
-        "coment": "Después de un tiempo, se siente repetitivo. Me hubiera gustado más variedad en los modos de juego. Aun así, es entretenido por un rato.",
-        "dayPublish": "10 de noviembre de 2007",
-        "gameId": "game016"
-    },
-    {
-        "id":"coment065",
-        "userName": "TimeWarrior",
-        "favs": "🌟",
-        "coment": "Un regreso increíble para la saga. La jugabilidad es fluida, los combates son dinámicos y el diseño de niveles es espectacular. Se siente como una mezcla perfecta entre lo clásico y lo moderno.",
-        "dayPublish": "19 de enero de 2024",
-        "gameId": "game017"
-    },
-    {
-        "id":"coment066",
-        "userName": "SandsOfTime",
-        "favs": "👎",
-        "coment": "No está mal, pero esperaba algo más ambicioso. La historia es un poco simple y el estilo visual no me terminó de convencer. Aun así, la jugabilidad es sólida.",
-        "dayPublish": "22 de enero de 2024",
-        "gameId": "game017"
-    },
-    {
-        "id":"coment067",
-        "userName": "BladeMaster77",
-        "favs": "🌟",
-        "coment": "Me encantó. Es un metroidvania con una gran ambientación y mecánicas muy bien logradas. Cada nuevo poder que consigues hace que la exploración sea más interesante.",
-        "dayPublish": "25 de enero de 2024",
-        "gameId": "game017"
-    },
-    {
-        "id":"coment068",
-        "userName": "LostTraveler",
-        "favs": "👎",
-        "coment": "Tiene buenas ideas, pero esperaba más profundidad en la historia. Además, algunas secciones se sienten repetitivas. No es malo, pero no es el mejor de la saga.",
-        "dayPublish": "30 de enero de 2024",
-        "gameId": "game017"
-    },
-    {
-        "id":"coment069",
-        "userName": "WolfOfAshina",
-        "favs": "🌟",
-        "coment": "Uno de los mejores juegos que he jugado. La jugabilidad es desafiante pero extremadamente satisfactoria. Cada pelea se siente como un duelo de habilidad. ¡Obra maestra!",
-        "dayPublish": "25 de marzo de 2019",
-        "gameId": "game018"
-    },
-    {
-        "id":"coment070",
-        "userName": "StealthNinja",
-        "favs": "👎",
-        "coment": "El juego es hermoso y la jugabilidad es única, pero la dificultad es exagerada. No es accesible para todos, y eso puede ser frustrante.",
-        "dayPublish": "28 de marzo de 2019",
-        "gameId": "game018"
-    },
-    {
-        "id":"coment071",
-        "userName": "ShinobiMaster",
-        "favs": "🌟",
-        "coment": "Cada enfrentamiento es un reto que te obliga a mejorar. La ambientación es increíble y la historia, aunque más sutil, es muy buena. Una joya para los fans de los juegos difíciles.",
-        "dayPublish": "2 de abril de 2019",
-        "gameId": "game018"
-    },
-    {
-        "id":"coment072",
-        "userName": "ParryOrDie",
-        "favs": "👎",
-        "coment": "Los combates son intensos, pero el sistema de postura puede volverse repetitivo. Además, no tener un modo fácil hace que muchos jugadores no puedan disfrutarlo.",
-        "dayPublish": "5 de abril de 2019",
-        "gameId": "game018"
-    },
-    {
-        "id":"coment073",
-        "userName": "SamuraiLegend",
-        "favs": "🌟",
-        "coment": "Un juego impresionante. La ambientación es hermosa, el combate es fluido y la historia es épica. Me sentí como un verdadero samurái explorando Tsushima.",
-        "dayPublish": "17 de julio de 2020",
-        "gameId": "game019"
-    },
-    {
-        "id":"coment074",
-        "userName": "RoninLost",
-        "favs": "👎",
-        "coment": "Gráficamente es increíble, pero la jugabilidad puede volverse repetitiva después de un tiempo. Además, la IA de los enemigos no es muy desafiante.",
-        "dayPublish": "20 de julio de 2020",
-        "gameId": "game019"
-    },
-    {
-        "id":"coment075",
-        "userName": "WayOfTheBlade",
-        "favs": "🌟",
-        "coment": "El mejor juego de samuráis que he jugado. La exploración sin marcadores, las peleas con katana y la música lo hacen una experiencia inolvidable.",
-        "dayPublish": "25 de julio de 2020",
-        "gameId": "game019"
-    },
-    {
-        "id":"coment076",
-        "userName": "ShadowAssassin",
-        "favs": "👎",
-        "coment": "La historia es buena, pero esperaba más profundidad en las decisiones del protagonista. Además, las misiones secundarias son muy repetitivas.",
-        "dayPublish": "30 de julio de 2020",
-        "gameId": "game019"
-    },
-    {
-        "id":"coment077",
-        "userName": "LostInTheLandsBetween",
-        "favs": "👎",
-        "coment": "El juego tiene un mundo impresionante, pero la falta de un sistema de guía puede hacerlo frustrante. No es para todos, especialmente si no tienes paciencia para explorar sin indicaciones.",
-        "dayPublish": "1 de marzo de 2022",
-        "gameId": "game020"
-    },
-    {
-        "id":"coment078",
-        "userName": "TarnishedWarrior",
-        "favs": "🌟",
-        "coment": "Una obra maestra absoluta. El mundo abierto es gigantesco y lleno de secretos, los combates son desafiantes y la exploración es simplemente adictiva. ¡El mejor juego de FromSoftware hasta ahora!",
-        "dayPublish": "27 de febrero de 2022",
-        "gameId": "game020"
-    },
-    {
-        "id":"coment079",
-        "userName": "EldenChampion",
-        "favs": "🌟",
-        "coment": "Nunca había sentido tanta libertad en un juego de FromSoftware. La combinación entre Dark Souls y mundo abierto es perfecta. Cada zona es una obra de arte.",
-        "dayPublish": "5 de marzo de 2022",
-        "gameId": "game020"
-    },
-    {
-        "id":"coment080",
-        "userName": "TooHard4Me",
-        "favs": "👎",
-        "coment": "Los gráficos y la música son geniales, pero la dificultad es absurda en algunas partes. No hay un modo fácil, lo que hace que muchos jugadores no puedan disfrutarlo.",
-        "dayPublish": "10 de marzo de 2022",
-        "gameId": "game020"
+  ],
+  "commentaries": [
+    {
+      "id": "coment001",
+      "userName": "MarioFan123",
+      "favs": "🌟",
+      "comment": "¡Este juego es increíble! La jugabilidad es fluida y los niveles son tan creativos. Cappy es un gran añadido al juego. Definitivamente uno de los mejores juegos de la serie Mario.",
+      "dayPublish": "12 de mayo de 2020",
+      "gameId": "game001"
+    },
+    {
+      "id": "coment002",
+      "userName": "GamerX92",
+      "favs": "👎",
+      "comment": "Es un buen juego, pero no me gusta cómo algunas mecánicas, como las capturas, afectan la jugabilidad. Algunas se sienten demasiado forzadas. Aún así, es divertido.",
+      "dayPublish": "5 de octubre de 2021",
+      "gameId": "game001"
+    },
+    {
+      "id": "coment003",
+      "userName": "Luna_Sun",
+      "favs": "👎",
+      "comment": "Lo encontré bastante aburrido después de un par de horas. Hay algo en la estructura que no me engancha tanto como otros juegos de Mario. Aun así, la gráfica es preciosa.",
+      "dayPublish": "23 de noviembre de 2019",
+      "gameId": "game001"
+    },
+    {
+      "id": "coment004",
+      "userName": "PixelMaster",
+      "favs": "🌟",
+      "comment": "¡Uno de los mejores títulos de la Nintendo Switch! Me encantan las zonas abiertas y la sensación de exploración. Un gran homenaje a la franquicia.",
+      "dayPublish": "18 de enero de 2021",
+      "gameId": "game001"
+    },
+    {
+      "id": "coment005",
+      "userName": "HunterMaster",
+      "favs": "🌟",
+      "comment": "Bloodborne es una obra maestra de FromSoftware. La atmósfera oscura y la jugabilidad desafiante hacen que cada batalla sea inolvidable. Es uno de los mejores juegos de acción que he jugado.",
+      "dayPublish": "15 de junio de 2018",
+      "gameId": "game002"
+    },
+    {
+      "id": "coment006",
+      "userName": "NightmareWalker",
+      "favs": "👎",
+      "comment": "Aunque la ambientación es impresionante, me resultó muy difícil y frustrante. La dificultad puede ser un obstáculo para disfrutar del juego en su totalidad.",
+      "dayPublish": "29 de agosto de 2019",
+      "gameId": "game002"
+    },
+    {
+      "id": "coment007",
+      "userName": "BloodMoonKing",
+      "favs": "👎",
+      "comment": "No soy fan del estilo de combate y el mundo tan oscuro. La falta de explicaciones en la historia me dejó perdido, y las mecánicas no son de mi agrado.",
+      "dayPublish": "11 de noviembre de 2020",
+      "gameId": "game002"
+    },
+    {
+      "id": "coment008",
+      "userName": "DarkSoulsFan01",
+      "favs": "🌟",
+      "comment": "Un juego extremadamente desafiante, pero tan gratificante cuando superas los enemigos más difíciles. La historia está oculta de forma intrigante y la jugabilidad es fluida.",
+      "dayPublish": "3 de febrero de 2021",
+      "gameId": "game002"
+    },
+    {
+      "id": "coment009",
+      "userName": "PuppetMaster23",
+      "favs": "🌟",
+      "comment": "Lies of P es un juego impresionante. La historia oscura y el mundo steampunk están muy bien logrados. El combate es desafiante pero gratificante. ¡No puedo esperar a ver más!",
+      "dayPublish": "14 de septiembre de 2023",
+      "gameId": "game003"
+    },
+    {
+      "id": "coment010",
+      "userName": "GameSeeker85",
+      "favs": "👎",
+      "comment": "Aunque la atmósfera es interesante, me parece que el juego no ofrece nada realmente innovador en comparación con otros juegos del género. El combate puede volverse monótono después de un tiempo.",
+      "dayPublish": "8 de octubre de 2023",
+      "gameId": "game003"
+    },
+    {
+      "id": "coment011",
+      "userName": "DarkLoreFan",
+      "favs": "👎",
+      "comment": "A pesar de tener una narrativa prometedora, el ritmo del juego no me enganchó. La mecánica de combate es sólida, pero la historia se siente forzada.",
+      "dayPublish": "25 de noviembre de 2023",
+      "gameId": "game003"
+    },
+    {
+      "id": "coment012",
+      "userName": "EpicGamer92",
+      "favs": "🌟",
+      "comment": "Me ha sorprendido gratamente. El diseño del mundo es fascinante y el combate tiene mucha profundidad. Un juego que todo fan de los soulslike debería probar.",
+      "dayPublish": "19 de diciembre de 2023",
+      "gameId": "game003"
+    },
+    {
+      "id": "coment013",
+      "userName": "WukongFan23",
+      "favs": "🌟",
+      "comment": "¡Este juego tiene un potencial increíble! Los gráficos y el combate son impresionantes. La mezcla de mitología china con acción es un sueño hecho realidad. ¡Definitivamente uno de los más esperados!",
+      "dayPublish": "1 de diciembre de 2023",
+      "gameId": "game004"
+    },
+    {
+      "id": "coment014",
+      "userName": "GamerX_21",
+      "favs": "👎",
+      "comment": "El juego se ve impresionante, pero aún se siente muy crudo. La jugabilidad necesita pulirse más antes de que pueda ser algo realmente grande. Aún tengo dudas sobre cómo se desarrollará.",
+      "dayPublish": "16 de enero de 2024",
+      "gameId": "game004"
+    },
+    {
+      "id": "coment015",
+      "userName": "DragonSlayer98",
+      "favs": "👎",
+      "comment": "A pesar de la increíble dirección artística, el combate se siente algo repetitivo y lento. Necesitan trabajar más en la fluidez de las mecánicas si quieren competir con otros títulos de acción.",
+      "dayPublish": "4 de febrero de 2024",
+      "gameId": "game004"
+    },
+    {
+      "id": "coment016",
+      "userName": "LegendaryPlayer",
+      "favs": "🌟",
+      "comment": "Me encanta la mitología detrás del juego, y el sistema de combate parece muy pulido. Espero que logren mantener la calidad que muestran en los avances. ¡Va a ser épico!",
+      "dayPublish": "28 de noviembre de 2023",
+      "gameId": "game004"
+    },
+    {
+      "id": "coment017",
+      "userName": "SamusFan88",
+      "favs": "🌟",
+      "comment": "Metroid Dread es una increíble continuación de la saga. La jugabilidad es perfecta, el ambiente es tenso y el regreso a la acción 2D es todo lo que esperábamos. ¡Samus sigue siendo la mejor!",
+      "dayPublish": "9 de octubre de 2021",
+      "gameId": "game005"
+    },
+    {
+      "id": "coment018",
+      "userName": "SpaceExplorer101",
+      "favs": "👎",
+      "comment": "El juego se ve genial, pero la dificultad me resulta excesiva y las mecánicas de los enemigos 'EMMIs' se sienten demasiado forzadas. No es tan disfrutable como los juegos anteriores de la saga.",
+      "dayPublish": "16 de octubre de 2021",
+      "gameId": "game005"
+    },
+    {
+      "id": "coment019",
+      "userName": "RetroGamer22",
+      "favs": "👎",
+      "comment": "Aunque la jugabilidad es sólida, no puedo evitar sentir que el juego se queda corto en comparación con otros títulos de la franquicia. Algunas mecánicas podrían haberse mejorado.",
+      "dayPublish": "5 de noviembre de 2021",
+      "gameId": "game005"
+    },
+    {
+      "id": "coment020",
+      "userName": "SciFiLover",
+      "favs": "🌟",
+      "comment": "Es una joya. La atmósfera es perfecta, el combate es desafiante y la historia es increíblemente intrigante. ¡Un gran regreso para Samus!",
+      "dayPublish": "19 de octubre de 2021",
+      "gameId": "game005"
+    },
+    {
+      "id": "coment021",
+      "userName": "RoninMaster",
+      "favs": "🌟",
+      "comment": "Rise of the Ronin ha capturado perfectamente la esencia de los samuráis y el Japón feudal. Los gráficos son impresionantes, y el combate se siente fluido y brutal. Este juego promete ser una joya.",
+      "dayPublish": "3 de diciembre de 2023",
+      "gameId": "game006"
+    },
+    {
+      "id": "coment022",
+      "userName": "KatanaWarrior",
+      "favs": "👎",
+      "comment": "Aunque la historia y la ambientación son interesantes, el combate no me ha convencido. El ritmo es un poco lento y las mecánicas de lucha parecen demasiado rígidas.",
+      "dayPublish": "15 de enero de 2024",
+      "gameId": "game006"
+    },
+    {
+      "id": "coment023",
+      "userName": "BushidoGamer",
+      "favs": "🌟",
+      "comment": "Una experiencia inmersiva. El mundo abierto, la historia profunda y el sistema de combate me tienen enganchado. Es lo que siempre quise de un juego de samuráis.",
+      "dayPublish": "25 de noviembre de 2023",
+      "gameId": "game006"
+    },
+    {
+      "id": "coment024",
+      "userName": "ShogunPlayer01",
+      "favs": "👎",
+      "comment": "No me terminó de enganchar. A pesar de tener buenos elementos, el juego no se siente tan fluido y a veces se vuelve repetitivo. Tenía expectativas más altas.",
+      "dayPublish": "8 de diciembre de 2023",
+      "gameId": "game006"
+    },
+    {
+      "id": "coment025",
+      "userName": "VikingLegend98",
+      "favs": "🌟",
+      "comment": "Assassin's Creed Valhalla es una obra maestra. La historia es envolvente, el mundo abierto es vasto y hermoso, y las mecánicas de combate son increíblemente satisfactorias. Me ha dejado sin palabras.",
+      "dayPublish": "2 de noviembre de 2020",
+      "gameId": "game007"
+    },
+    {
+      "id": "coment026",
+      "userName": "EivorWarrior",
+      "favs": "👎",
+      "comment": "El juego es bonito, pero se siente repetitivo. Las misiones secundarias son muy similares entre sí y la historia no tiene la misma profundidad que otros juegos de la saga.",
+      "dayPublish": "10 de diciembre de 2020",
+      "gameId": "game007"
+    },
+    {
+      "id": "coment027",
+      "userName": "StealthAssassin",
+      "favs": "🌟",
+      "comment": "Me encanta cómo han mejorado el combate y la exploración en el mundo abierto. Aunque algunas mecánicas podrían pulirse, el juego es una excelente adición a la serie.",
+      "dayPublish": "18 de noviembre de 2020",
+      "gameId": "game007"
+    },
+    {
+      "id": "coment028",
+      "userName": "BerserkerHunter",
+      "favs": "👎",
+      "comment": "No soy fan de la dirección que ha tomado la saga. El juego es demasiado largo y se siente algo pesado a veces. Las mecánicas de combate, aunque buenas, no logran mantener mi interés.",
+      "dayPublish": "21 de diciembre de 2020",
+      "gameId": "game007"
+    },
+    {
+      "id": "coment029",
+      "userName": "FootballFanX",
+      "favs": "🌟",
+      "comment": "¡EA Sports FC 25 ha superado mis expectativas! Los gráficos son impresionantes, la jugabilidad es fluida y las nuevas mecánicas de juego realmente mejoran la experiencia. ¡Este es el mejor simulador de fútbol hasta ahora!",
+      "dayPublish": "5 de octubre de 2024",
+      "gameId": "game008"
+    },
+    {
+      "id": "coment030",
+      "userName": "GameCritic2024",
+      "favs": "👎",
+      "comment": "El juego es bastante bueno, pero algunas animaciones siguen siendo poco realistas y el modo carrera podría tener más profundidad. En general, siento que no hay grandes avances respecto a los títulos anteriores.",
+      "dayPublish": "15 de octubre de 2024",
+      "gameId": "game008"
+    },
+    {
+      "id": "coment031",
+      "userName": "SoccerLover92",
+      "favs": "👎",
+      "comment": "Aunque el juego tiene mejoras gráficas, la jugabilidad sigue siendo muy similar a los anteriores. Me esperaba algo más innovador en este nuevo capítulo de la serie.",
+      "dayPublish": "20 de octubre de 2024",
+      "gameId": "game008"
+    },
+    {
+      "id": "coment032",
+      "userName": "ProGamer22",
+      "favs": "🌟",
+      "comment": "¡Una gran adición a la saga! El modo Ultimate Team está más pulido que nunca y el sistema de habilidades mejora mucho la dinámica de juego. Definitivamente el juego de fútbol más realista hasta la fecha.",
+      "dayPublish": "28 de septiembre de 2024",
+      "gameId": "game008"
+    },
+    {
+      "id": "coment033",
+      "userName": "KratosFan92",
+      "favs": "🌟",
+      "comment": "¡Este juego es una obra maestra! La historia de Kratos y Atreus es profundamente emotiva, el combate es brutal y la atmósfera de todo el mundo nórdico es impresionante. Definitivamente uno de los mejores juegos de la generación.",
+      "dayPublish": "20 de abril de 2018",
+      "gameId": "game009"
+    },
+    {
+      "id": "coment034",
+      "userName": "FuryHunter",
+      "favs": "👎",
+      "comment": "Aunque el juego es visualmente hermoso y tiene una historia sólida, la jugabilidad me pareció repetitiva. Algunas mecánicas de combate no me convencieron y me costó un poco engancharme.",
+      "dayPublish": "5 de mayo de 2018",
+      "gameId": "game009"
+    },
+    {
+      "id": "coment035",
+      "userName": "Godslayer_88",
+      "favs": "🌟",
+      "comment": "Una experiencia inolvidable. Kratos muestra una nueva faceta de su personalidad y la relación con Atreus es maravillosa. El combate fluido y el diseño del mundo nórdico son impresionantes.",
+      "dayPublish": "10 de abril de 2018",
+      "gameId": "game009"
+    },
+    {
+      "id": "coment036",
+      "userName": "VikingSoul",
+      "favs": "👎",
+      "comment": "Aunque el juego tiene una buena narrativa, se siente más como un juego de aventuras genérico que un God of War clásico. Extrañé el estilo de combate rápido y frenético de los anteriores.",
+      "dayPublish": "18 de abril de 2018",
+      "gameId": "game009"
+    },
+    {
+      "id": "coment037",
+      "userName": "LosSantosKing",
+      "favs": "🌟",
+      "comment": "GTA V es un juego legendario. La historia es increíblemente entretenida, el mundo abierto es vasto y lleno de actividades, y el modo online siempre tiene algo nuevo para ofrecer. ¡Una obra maestra de la industria!",
+      "dayPublish": "17 de septiembre de 2013",
+      "gameId": "game010"
+    },
+    {
+      "id": "coment038",
+      "userName": "RebelGamer101",
+      "favs": "👎",
+      "comment": "Aunque el mundo es grande, siento que el juego está muy enfocado en el aspecto de los disparos y los vehículos. Las misiones a veces son repetitivas y el enfoque en el crimen me dejó algo insatisfecho.",
+      "dayPublish": "22 de septiembre de 2013",
+      "gameId": "game010"
+    },
+    {
+      "id": "coment039",
+      "userName": "StreetRacer99",
+      "favs": "🌟",
+      "comment": "La cantidad de cosas que puedes hacer en GTA V es impresionante. Desde carreras hasta misiones de historia, pasando por actividades aleatorias en la ciudad. Cada rincón de Los Santos tiene algo que explorar.",
+      "dayPublish": "5 de octubre de 2013",
+      "gameId": "game010"
+    },
+    {
+      "id": "coment040",
+      "userName": "ViceCityVibes",
+      "favs": "👎",
+      "comment": "El juego es grandioso, pero siento que la historia de los tres protagonistas no está tan bien conectada. Además, algunas misiones se sienten forzadas y no tan naturales como en otros GTA.",
+      "dayPublish": "12 de octubre de 2013",
+      "gameId": "game010"
+    },
+    {
+      "id": "coment041",
+      "userName": "PokémonMaster01",
+      "favs": "🌟",
+      "comment": "¡Este es el juego de Pokémon que estaba esperando! La jugabilidad abierta, la exploración y la captura de Pokémon de manera más libre y dinámica hacen que la experiencia sea fresca y emocionante. Arceus tiene todo lo que los fans querían.",
+      "dayPublish": "28 de enero de 2022",
+      "gameId": "game011"
+    },
+    {
+      "id": "coment042",
+      "userName": "PokéFan88",
+      "favs": "👎",
+      "comment": "Aunque la idea de un mundo abierto en Pokémon es genial, siento que los gráficos no son tan buenos y la historia es algo simple. Esperaba una experiencia más pulida y con más contenido.",
+      "dayPublish": "2 de febrero de 2022",
+      "gameId": "game011"
+    },
+    {
+      "id": "coment043",
+      "userName": "LegendaryTrainer",
+      "favs": "🌟",
+      "comment": "Este es el mejor juego de Pokémon en años. La libertad de explorar el mundo y la captura de Pokémon de forma tan natural me ha enganchado por completo. El cambio de fórmula ha sido un acierto.",
+      "dayPublish": "5 de febrero de 2022",
+      "gameId": "game011"
+    },
+    {
+      "id": "coment044",
+      "userName": "EeveeFan22",
+      "favs": "👎",
+      "comment": "A pesar de ser innovador, el juego se siente un poco vacío en algunas áreas. Las misiones secundarias se repiten mucho y no hay tanto contenido como esperaba en un mundo tan grande.",
+      "dayPublish": "10 de febrero de 2022",
+      "gameId": "game011"
+    },
+    {
+      "id": "coment045",
+      "userName": "Spartan112",
+      "favs": "🌟",
+      "comment": "Halo Infinite ha regresado con todo. La campaña tiene una historia envolvente y el mundo abierto es impresionante. El regreso de Master Chief es épico, y el modo multijugador sigue siendo una de las mejores experiencias en shooters.",
+      "dayPublish": "8 de diciembre de 2021",
+      "gameId": "game012"
+    },
+    {
+      "id": "coment046",
+      "userName": "CovenantHunter",
+      "favs": "👎",
+      "comment": "Aunque el juego tiene grandes gráficos y una jugabilidad sólida, el modo multijugador está un poco desbalanceado y la falta de contenido en el lanzamiento me decepcionó. Había muchas expectativas",
+      "dayPublish": "15 de diciembre de 2021",
+      "gameId": "game012"
+    },
+    {
+      "id": "coment047",
+      "userName": "MasterChiefFan24",
+      "favs": "🌟",
+      "comment": "Un regreso impresionante para la saga. La campaña es muy entretenida, y la exploración en el mundo abierto es una gran adición. No puedo esperar para ver qué más traerán en futuras actualizaciones.",
+      "dayPublish": "10 de diciembre de 2021",
+      "gameId": "game012"
+    },
+    {
+      "id": "coment048",
+      "userName": "ODST_Elite",
+      "favs": "👎",
+      "comment": "El juego está bien, pero siento que le falta algo. La historia no me atrapó tanto como en otros Halo y el modo multijugador tiene demasiado 'microtransacciones'. Necesita más pulido.",
+      "dayPublish": "18 de diciembre de 2021",
+      "gameId": "game012"
+    },
+    {
+      "id": "coment049",
+      "userName": "OutlawLegend",
+      "favs": "🌟",
+      "comment": "Red Dead Redemption 2 es una obra maestra. La historia es profunda, los personajes son complejos, y el mundo abierto es impresionante. Cada detalle de este juego está cuidado al máximo. ¡Una experiencia inolvidable!",
+      "dayPublish": "26 de octubre de 2018",
+      "gameId": "game013"
+    },
+    {
+      "id": "coment050",
+      "userName": "Gunslinger23",
+      "favs": "👎",
+      "comment": "El juego tiene una gran historia y un mundo increíblemente detallado, pero a veces se siente un poco lento. Las misiones secundarias pueden ser tediosas y la jugabilidad no siempre es tan fluida como esperaba.",
+      "dayPublish": "30 de octubre de 2018",
+      "gameId": "game013"
+    },
+    {
+      "id": "coment051",
+      "userName": "VikingOutlaw",
+      "favs": "🌟",
+      "comment": "Una de las mejores experiencias de juego que he tenido. La narrativa es épica, el mundo es tan detallado que puedes perderte explorando, y las mecánicas de caza y supervivencia añaden una capa extra de realismo.",
+      "dayPublish": "1 de noviembre de 2018",
+      "gameId": "game013"
+    },
+    {
+      "id": "coment052",
+      "userName": "RedDeadFan94",
+      "favs": "👎",
+      "comment": "El juego es increíblemente detallado, pero a veces la jugabilidad se siente lenta y las interacciones con otros personajes pueden ser largas y tediosas. No es para todos.",
+      "dayPublish": "5 de noviembre de 2018",
+      "gameId": "game013"
+    },
+    {
+      "id": "coment053",
+      "userName": "UmbrellaSurvivor",
+      "favs": "🌟",
+      "comment": "Resident Evil Village es una obra maestra. La mezcla de acción y horror es perfecta, y la historia está llena de giros emocionantes. Los personajes como Lady Dimitrescu son inolvidables. ¡Un imprescindible para los fans del género!",
+      "dayPublish": "7 de mayo de 2021",
+      "gameId": "game014"
+    },
+    {
+      "id": "coment054",
+      "userName": "EthanHunter",
+      "favs": "👎",
+      "comment": "Aunque la jugabilidad es buena y los gráficos son impresionantes, la historia no me terminó de enganchar. Además, el cambio hacia más acción en comparación con los anteriores juegos de la saga no fue lo que esperaba.",
+      "dayPublish": "10 de mayo de 2021",
+      "gameId": "game014"
+    },
+    {
+      "id": "coment055",
+      "userName": "ResidentEvilFan92",
+      "favs": "🌟",
+      "comment": "Este juego me dejó sin aliento. El diseño de los enemigos, la atmósfera y las mecánicas de juego hacen que cada segundo sea emocionante. Me encantó la experiencia en su totalidad.",
+      "dayPublish": "12 de mayo de 2021",
+      "gameId": "game014"
+    },
+    {
+      "id": "coment056",
+      "userName": "LickerKing",
+      "favs": "👎",
+      "comment": "El juego es entretenido, pero siento que perdió algo de la atmósfera de terror clásico de Resident Evil. Hay más acción y menos suspenso, lo que no me parece tan interesante como los títulos anteriores.",
+      "dayPublish": "15 de mayo de 2021",
+      "gameId": "game014"
+    },
+    {
+      "id": "coment057",
+      "userName": "ElectricHero",
+      "favs": "🌟",
+      "comment": "Un juego increíblemente divertido. La mecánica de poderes eléctricos es muy satisfactoria y la historia te mantiene enganchado. Además, las decisiones morales añaden una gran rejugabilidad.",
+      "dayPublish": "12 de junio de 2009",
+      "gameId": "game015"
+    },
+    {
+      "id": "coment058",
+      "userName": "DarkKarma",
+      "favs": "👎",
+      "comment": "El concepto es genial, pero la historia no me atrapó tanto como esperaba. Además, los controles pueden sentirse un poco toscos en algunas secciones del juego.",
+      "dayPublish": "15 de junio de 2009",
+      "gameId": "game015"
+    },
+    {
+      "id": "coment059",
+      "userName": "ConduitX",
+      "favs": "🌟",
+      "comment": "El sistema de karma y la exploración hacen que este juego sea muy especial. Cole es un gran protagonista y las habilidades eléctricas son súper entretenidas. Lo recomiendo totalmente.",
+      "dayPublish": "20 de junio de 2009",
+      "gameId": "game015"
+    },
+    {
+      "id": "coment060",
+      "userName": "NeonRider",
+      "favs": "👎",
+      "comment": "Buen juego, pero siento que la ciudad se siente vacía en algunos momentos y que la IA de los enemigos no es tan desafiante. Podría haber tenido más variedad en las misiones secundarias.",
+      "dayPublish": "25 de junio de 2009",
+      "gameId": "game015"
+    },
+    {
+      "id": "coment061",
+      "userName": "RockstarX",
+      "favs": "🌟",
+      "comment": "Este juego es una leyenda. La selección de canciones es increíble y la jugabilidad sigue siendo adictiva hasta el día de hoy. ¡Nada como enfrentarse a Slash en un duelo de guitarra!",
+      "dayPublish": "28 de octubre de 2007",
+      "gameId": "game016"
+    },
+    {
+      "id": "coment062",
+      "userName": "SoloMaster",
+      "favs": "👎",
+      "comment": "Es un buen juego, pero en dificultad alta algunas canciones son simplemente frustrantes. Se siente injusto en lugar de desafiante en ciertos momentos.",
+      "dayPublish": "2 de noviembre de 2007",
+      "gameId": "game016"
+    },
+    {
+      "id": "coment063",
+      "userName": "MetalFreak99",
+      "favs": "🌟",
+      "comment": "La mejor entrega de Guitar Hero sin duda. Horas de diversión con amigos y un gran setlist que incluye clásicos del rock y metal. No me canso de jugarlo.",
+      "dayPublish": "5 de noviembre de 2007",
+      "gameId": "game016"
+    },
+    {
+      "id": "coment064",
+      "userName": "StringBreaker",
+      "favs": "👎",
+      "comment": "Después de un tiempo, se siente repetitivo. Me hubiera gustado más variedad en los modos de juego. Aun así, es entretenido por un rato.",
+      "dayPublish": "10 de noviembre de 2007",
+      "gameId": "game016"
+    },
+    {
+      "id": "coment065",
+      "userName": "TimeWarrior",
+      "favs": "🌟",
+      "comment": "Un regreso increíble para la saga. La jugabilidad es fluida, los combates son dinámicos y el diseño de niveles es espectacular. Se siente como una mezcla perfecta entre lo clásico y lo moderno.",
+      "dayPublish": "19 de enero de 2024",
+      "gameId": "game017"
+    },
+    {
+      "id": "coment066",
+      "userName": "SandsOfTime",
+      "favs": "👎",
+      "comment": "No está mal, pero esperaba algo más ambicioso. La historia es un poco simple y el estilo visual no me terminó de convencer. Aun así, la jugabilidad es sólida.",
+      "dayPublish": "22 de enero de 2024",
+      "gameId": "game017"
+    },
+    {
+      "id": "coment067",
+      "userName": "BladeMaster77",
+      "favs": "🌟",
+      "comment": "Me encantó. Es un metroidvania con una gran ambientación y mecánicas muy bien logradas. Cada nuevo poder que consigues hace que la exploración sea más interesante.",
+      "dayPublish": "25 de enero de 2024",
+      "gameId": "game017"
+    },
+    {
+      "id": "coment068",
+      "userName": "LostTraveler",
+      "favs": "👎",
+      "comment": "Tiene buenas ideas, pero esperaba más profundidad en la historia. Además, algunas secciones se sienten repetitivas. No es malo, pero no es el mejor de la saga.",
+      "dayPublish": "30 de enero de 2024",
+      "gameId": "game017"
+    },
+    {
+      "id": "coment069",
+      "userName": "WolfOfAshina",
+      "favs": "🌟",
+      "comment": "Uno de los mejores juegos que he jugado. La jugabilidad es desafiante pero extremadamente satisfactoria. Cada pelea se siente como un duelo de habilidad. ¡Obra maestra!",
+      "dayPublish": "25 de marzo de 2019",
+      "gameId": "game018"
+    },
+    {
+      "id": "coment070",
+      "userName": "StealthNinja",
+      "favs": "👎",
+      "comment": "El juego es hermoso y la jugabilidad es única, pero la dificultad es exagerada. No es accesible para todos, y eso puede ser frustrante.",
+      "dayPublish": "28 de marzo de 2019",
+      "gameId": "game018"
+    },
+    {
+      "id": "coment071",
+      "userName": "ShinobiMaster",
+      "favs": "🌟",
+      "comment": "Cada enfrentamiento es un reto que te obliga a mejorar. La ambientación es increíble y la historia, aunque más sutil, es muy buena. Una joya para los fans de los juegos difíciles.",
+      "dayPublish": "2 de abril de 2019",
+      "gameId": "game018"
+    },
+    {
+      "id": "coment072",
+      "userName": "ParryOrDie",
+      "favs": "👎",
+      "comment": "Los combates son intensos, pero el sistema de postura puede volverse repetitivo. Además, no tener un modo fácil hace que muchos jugadores no puedan disfrutarlo.",
+      "dayPublish": "5 de abril de 2019",
+      "gameId": "game018"
+    },
+    {
+      "id": "coment073",
+      "userName": "SamuraiLegend",
+      "favs": "🌟",
+      "comment": "Un juego impresionante. La ambientación es hermosa, el combate es fluido y la historia es épica. Me sentí como un verdadero samurái explorando Tsushima.",
+      "dayPublish": "17 de julio de 2020",
+      "gameId": "game019"
+    },
+    {
+      "id": "coment074",
+      "userName": "RoninLost",
+      "favs": "👎",
+      "comment": "Gráficamente es increíble, pero la jugabilidad puede volverse repetitiva después de un tiempo. Además, la IA de los enemigos no es muy desafiante.",
+      "dayPublish": "20 de julio de 2020",
+      "gameId": "game019"
+    },
+    {
+      "id": "coment075",
+      "userName": "WayOfTheBlade",
+      "favs": "🌟",
+      "comment": "El mejor juego de samuráis que he jugado. La exploración sin marcadores, las peleas con katana y la música lo hacen una experiencia inolvidable.",
+      "dayPublish": "25 de julio de 2020",
+      "gameId": "game019"
+    },
+    {
+      "id": "coment076",
+      "userName": "ShadowAssassin",
+      "favs": "👎",
+      "comment": "La historia es buena, pero esperaba más profundidad en las decisiones del protagonista. Además, las misiones secundarias son muy repetitivas.",
+      "dayPublish": "30 de julio de 2020",
+      "gameId": "game019"
+    },
+    {
+      "id": "coment077",
+      "userName": "LostInTheLandsBetween",
+      "favs": "👎",
+      "comment": "El juego tiene un mundo impresionante, pero la falta de un sistema de guía puede hacerlo frustrante. No es para todos, especialmente si no tienes paciencia para explorar sin indicaciones.",
+      "dayPublish": "1 de marzo de 2022",
+      "gameId": "game020"
+    },
+    {
+      "id": "coment078",
+      "userName": "TarnishedWarrior",
+      "favs": "🌟",
+      "comment": "Una obra maestra absoluta. El mundo abierto es gigantesco y lleno de secretos, los combates son desafiantes y la exploración es simplemente adictiva. ¡El mejor juego de FromSoftware hasta ahora!",
+      "dayPublish": "27 de febrero de 2022",
+      "gameId": "game020"
+    },
+    {
+      "id": "coment079",
+      "userName": "EldenChampion",
+      "favs": "🌟",
+      "comment": "Nunca había sentido tanta libertad en un juego de FromSoftware. La combinación entre Dark Souls y mundo abierto es perfecta. Cada zona es una obra de arte.",
+      "dayPublish": "5 de marzo de 2022",
+      "gameId": "game020"
+    },
+    {
+      "id": "coment080",
+      "userName": "TooHard4Me",
+      "favs": "👎",
+      "comment": "Los gráficos y la música son geniales, pero la dificultad es absurda en algunas partes. No hay un modo fácil, lo que hace que muchos jugadores no puedan disfrutarlo.",
+      "dayPublish": "10 de marzo de 2022",
+      "gameId": "game020"
     }
-]
+  ]
 }
