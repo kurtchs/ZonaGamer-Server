@@ -1,3 +1,5 @@
+process.loadEnvFile()   // esto permite a node acceder
+
 const jsonServer = require("json-server")
 
 const server = jsonServer.create()
@@ -17,7 +19,7 @@ const router = jsonServer.router("db.json")
 
 server.use(router)
 
-const PORT = 5005
+const PORT = process.env.PORT
 
 server.listen(PORT, () => {
     console.log("servidor andando")

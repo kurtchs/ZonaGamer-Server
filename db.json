@@ -3,7 +3,7 @@
     {
       "id": "game001",
       "name": "Mario Odyssey",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741787232/mario_islgmy.jpg",
       "info": "En Super Mario Odyssey, los jugadores controlan a Mario mientras viaja a través de diversos reinos en su nave, la Odyssey, con el objetivo de rescatar a la Princesa Peach de los planes de boda de Bowser. Cada reino es un mundo abierto lleno de secretos, acertijos y desafíos que culminan en la obtención de Energilunas, necesarias para avanzar a nuevas áreas. Una mecánica destacada es la colaboración con Cappy, un sombrero sensible que permite a Mario capturar y tomar el control de enemigos y objetos, añadiendo profundidad y variedad a la jugabilidad.",
       "genre": [
         "plataformas",
@@ -15,7 +15,7 @@
         "nintendo Switch"
       ],
       "developer": " Nintendo EPD (Entertainment Planning & Development)",
-      "release date": "27 de Octubre de 2017",
+      "releaseDate": "27 de Octubre de 2017",
       "awards": [
         "Game Critics Awards 2017",
         "Golden Joystick Awards 2017",
@@ -30,7 +30,7 @@
     {
       "id": "game002",
       "name": "bloodborne",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741787490/bloodborne_q4zz7q.jpg",
       "info": "Bloodborne es un Action-RPG que incorpora elementos de exploración y combate en tiempo real. Los jugadores asumen el papel de un cazador en la ciudad ficticia de Yharnam, enfrentándose a criaturas grotescas y desentrañando misterios oscuros. El juego se destaca por su alta dificultad, recompensando la estrategia y la habilidad del jugador.",
       "genre": [
         "acción",
@@ -41,7 +41,7 @@
         "Playstarion 4"
       ],
       "developer": "From Software",
-      "release date": "24 de marzo de 2015",
+      "releaseDate": "24 de marzo de 2015",
       "awards": [
         "The Game Awards 2015: Nominado a Juego del Año.",
         "British Academy Games Awards (BAFTA) 2016: Ganador en la categoría de Logro en Diseño de Juego.",
@@ -52,7 +52,7 @@
     {
       "id": "game003",
       "name": "Lies of P",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741787664/lies_of_p_zboc77.jpg",
       "info": "Lies of P es un videojuego del género soulslike. Basado libremente en la novela 'Las aventuras de Pinocho' de Carlo Collodi, el juego ofrece una reinterpretación oscura y madura del clásico cuento.",
       "genre": [
         "accion",
@@ -67,7 +67,7 @@
         "Xbox Series X/S."
       ],
       "developer": "Round8 Studio",
-      "release date": "18 de septiembre de 2023",
+      "releaseDate": "18 de septiembre de 2023",
       "awards": [
         ""
       ],
@@ -76,7 +76,7 @@
     {
       "id": "game004",
       "name": "Black Myth Wukong",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741787781/black_myth_tgcg6a.jpg",
       "info": "Este juego de rol y acción en tercera persona incorpora elementos soulslike, ofreciendo combates desafiantes y una narrativa profunda. Los jugadores controlan a Sun Wukong, el Rey Mono, utilizando su bastón mágico y habilidades especiales en un mundo inspirado en la mitología china.",
       "genre": [
         "rol",
@@ -89,7 +89,7 @@
         "Xbox Series X/S"
       ],
       "developer": "Game Science",
-      "release date": "20 de agosto de 2024",
+      "releaseDate": "20 de agosto de 2024",
       "awards": [
         "Golden Joystick Awards 2024",
         "Game Awards 2024"
@@ -99,7 +99,7 @@
     {
       "id": "game005",
       "name": "Metroid Dread",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741787499/metroid_g82ple.jpg",
       "info": "Metroid Dread es un juego de acción y aventura en 2D que continúa la historia de Samus Aran en su lucha contra los enemigos intergalácticos. El juego destaca por su atmósfera tensa, exploración de mundos alienígenas y un sistema de combate fluido que desafía a los jugadores con secuencias de plataformas y enfrentamientos contra jefes.",
       "genre": [
         "acción",
@@ -111,7 +111,7 @@
         "nintendo Switch"
       ],
       "developer": "Nintendo EPD",
-      "release date": "8 de octubre de 2021",
+      "releaseDate": "8 de octubre de 2021",
       "awards": [
         "The Game Awards 2021 - Mejor Juego de Acción",
         "Golden Joystick Awards 2021 - Mejor Juego de Acción"
@@ -121,7 +121,7 @@
     {
       "id": "game006",
       "name": "Rise of the Ronin",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741787905/rise_of_ronin_n8u0b1.jpg",
       "info": "Rise of the Ronin es un juego de rol y acción de mundo abierto ambientado en el Japón del siglo XIX, durante el período Bakumatsu. Los jugadores controlan a los Hermanos Blade, personajes personalizables que se ven envueltos en conflictos históricos y luchas internas mientras exploran ciudades como Yokohama, Edo y Kioto, participando en eventos que llevaron a la Restauración Meiji.",
       "genre": [
         "rol",
@@ -134,7 +134,7 @@
         "Microsoft Windows"
       ],
       "developer": "Team Ninja",
-      "release date": "22 de marzo de 2024",
+      "releaseDate": "22 de marzo de 2024",
       "awards": [
         ""
       ],
@@ -143,7 +143,7 @@
     {
       "id": "game007",
       "name": "Assassin's Creed Valhalla",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741787959/assasins_creed_zesq8e.jpg",
       "info": "Assassin's Creed Valhalla es un juego de acción y aventura de mundo abierto donde los jugadores asumen el rol de Eivor, un guerrero vikingo, mientras lidera su clan en su viaje desde Noruega hacia las tierras de Inglaterra. El juego combina combates épicos, exploración, y una narrativa inmersiva centrada en la conquista y supervivencia en un mundo lleno de mitología y política.",
       "genre": [
         "acción",
@@ -160,7 +160,7 @@
         "Stadia"
       ],
       "developer": "Ubisoft Montreal",
-      "release date": "10 de noviembre de 2020",
+      "releaseDate": "10 de noviembre de 2020",
       "awards": [
         "The Game Awards 2020 - Nominado a Mejor Juego de Acción/Aventura",
         "Golden Joystick Awards 2020 - Mejor Juego de Aventura",
@@ -171,7 +171,7 @@
     {
       "id": "game008",
       "name": "EA Sports FC 25",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741788054/fc_25_bwnqrv.jpg",
       "info": "EA Sports FC 25 es un videojuego de fútbol desarrollado y publicado por Electronic Arts. Es la segunda entrega de la serie EA Sports FC y la trigésima segunda si se incluyen las entregas bajo el nombre de FIFA",
       "genre": [
         "deportes",
@@ -187,7 +187,7 @@
         "Xbox Series X/S"
       ],
       "developer": "Electronic Arts",
-      "release date": "27 de septiembre de 2024",
+      "releaseDate": "27 de septiembre de 2024",
       "awards": [
         "The Game Awards 2024 - Nominado a Mejor Juego de Deportes",
         "Golden Joystick Awards 2024 - Nominado a Mejor Juego de Deportes"
@@ -197,7 +197,7 @@
     {
       "id": "game009",
       "name": "God of War (2018)",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741788150/god_of_war_t6ksc9.webp",
       "info": "God of War (2018) es un juego de acción y aventura que reinventa la clásica saga de Kratos, llevándola a la mitología nórdica. El juego sigue a Kratos y su hijo Atreus mientras enfrentan a dioses, monstruos y desafíos mientras buscan cumplir el último deseo de la madre de Atreus. Con un combate fluido, una historia emocional y un mundo abierto, el título se convirtió en uno de los más aclamados de la generación.",
       "genre": [
         "acción",
@@ -210,7 +210,7 @@
         "Microsoft Windows"
       ],
       "developer": "Santa Monica Studio",
-      "release date": "20 de abril de 2018",
+      "releaseDate": "20 de abril de 2018",
       "awards": [
         "The Game Awards 2018 - Juego del Año",
         "Golden Joystick Awards 2018 - Mejor Juego de Acción",
@@ -222,7 +222,7 @@
     {
       "id": "game010",
       "name": "Grand Theft Auto V",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741788221/grand_theft_auto_v_fpozxx.jpg",
       "info": "Grand Theft Auto V es un juego de acción y aventura de mundo abierto desarrollado por Rockstar North. Los jugadores controlan a tres protagonistas (Michael, Trevor y Franklin) en la ciudad ficticia de Los Santos, basada en Los Ángeles. El juego ofrece una amplia gama de actividades, desde misiones principales hasta actividades secundarias como deportes, vehículos y robos. Su modo multijugador, GTA Online, ha sido un éxito continuo con actualizaciones regulares.",
       "genre": [
         "acción",
@@ -239,7 +239,7 @@
         "Microsoft Windows"
       ],
       "developer": "Rockstar North",
-      "release date": "17 de septiembre de 2013",
+      "releaseDate": "17 de septiembre de 2013",
       "awards": [
         "The Game Awards 2013 - Nominado a Juego del Año",
         "Golden Joystick Awards 2013 - Mejor Juego de Acción",
@@ -251,7 +251,7 @@
     {
       "id": "game011",
       "name": "Pokémon Legends: Arceus",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741788411/pokemon_vkcex1.jpg",
       "info": "Pokémon Legends: Arceus es un juego de rol de acción desarrollado por Game Freak. Ambientado en la región de Hisui, una versión primitiva de Sinnoh, el juego introduce una jugabilidad más abierta y dinámica que los juegos tradicionales de la serie. Los jugadores asumen el rol de un joven investigador de la Pokédex que explora un mundo abierto, captura Pokémon y se enfrenta a desafíos mientras busca a Arceus, el Pokémon creador del universo.",
       "genre": [
         "rol",
@@ -263,7 +263,7 @@
         "Nintendo Switch"
       ],
       "developer": "Game Freak",
-      "release date": "28 de enero de 2022",
+      "releaseDate": "28 de enero de 2022",
       "awards": [
         "The Game Awards 2022 - Nominado a Mejor Juego de Rol",
         "Golden Joystick Awards 2022 - Mejor Juego de Rol",
@@ -274,7 +274,7 @@
     {
       "id": "game012",
       "name": "Halo Infinite",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741788474/Halo_Infinite_ogxrjy.png",
       "info": "Halo Infinite es un juego de disparos en primera persona desarrollado por 343 Industries. La historia sigue al Jefe Maestro mientras lucha contra el Covenant y el nuevo enemigo, los 'Banished', en un mundo abierto dentro del anillo Halo. El juego ofrece una experiencia de campaña profunda, un multijugador competitivo gratuito y gráficos de última generación, destacando la libertad en la exploración del anillo Halo.",
       "genre": [
         "disparos en primera persona",
@@ -288,7 +288,7 @@
         "Microsoft Windows"
       ],
       "developer": "343 Industries",
-      "release date": "8 de diciembre de 2021",
+      "releaseDate": "8 de diciembre de 2021",
       "awards": [
         "The Game Awards 2021 - Nominado a Mejor Juego de Acción",
         "Golden Joystick Awards 2021 - Nominado a Mejor Juego de Acción",
@@ -299,7 +299,7 @@
     {
       "id": "game013",
       "name": "Red Dead Redemption 2",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741788520/red_dead_t9skg8.webp",
       "info": "Red Dead Redemption 2 es un juego de acción y aventura de mundo abierto desarrollado por Rockstar Games. Ambientado en 1899, el juego sigue a Arthur Morgan, un miembro de la banda de Dutch van der Linde, mientras navega por un mundo lleno de traiciones, lealtades rotas y un envejecido lejano oeste. El título se destaca por su detallado mundo abierto, su narrativa profunda y su jugabilidad que combina exploración, combate y actividades secundarias.",
       "genre": [
         "acción",
@@ -314,7 +314,7 @@
         "Stadia"
       ],
       "developer": "Rockstar Games",
-      "release date": "26 de octubre de 2018",
+      "releaseDate": "26 de octubre de 2018",
       "awards": [
         "The Game Awards 2018 - Juego del Año",
         "Golden Joystick Awards 2018 - Mejor Juego de Acción/Aventura",
@@ -326,7 +326,7 @@
     {
       "id": "game014",
       "name": "Resident Evil Village (Resident Evil 8)",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741788565/resident_evil_ogb0xr.jpg",
       "info": "Resident Evil Village es un juego de terror y supervivencia en tercera persona, desarrollado por Capcom. Continuando la historia de Ethan Winters, quien busca a su hija secuestrada en un misterioso pueblo europeo, el juego combina elementos clásicos de la serie con una jugabilidad más centrada en la acción. Enfrentando criaturas sobrenaturales y monstruos, el título ofrece una atmósfera tensa y una narrativa profunda en el universo de Resident Evil.",
       "genre": [
         "terror",
@@ -342,7 +342,7 @@
         "Microsoft Windows"
       ],
       "developer": "Capcom",
-      "release date": "7 de mayo de 2021",
+      "releaseDate": "7 de mayo de 2021",
       "awards": [
         "The Game Awards 2021 - Mejor Juego de Acción/Aventura",
         "Golden Joystick Awards 2021 - Mejor Juego de Acción",
@@ -353,7 +353,7 @@
     {
       "id": "game015",
       "name": "inFAMOUS",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741788627/infamous_fptmqu.jpg",
       "info": "inFAMOUS es un juego de acción y aventura de mundo abierto desarrollado por Sucker Punch Productions. Los jugadores controlan a Cole MacGrath, un mensajero que, después de un extraño accidente, adquiere poderes eléctricos. El juego ofrece la posibilidad de elegir entre dos caminos: el héroe o el villano, lo que afecta las misiones, el entorno y la narrativa. El juego es conocido por su jugabilidad dinámica y las decisiones morales que el jugador debe tomar.",
       "genre": [
         "acción",
@@ -365,7 +365,7 @@
         "PlayStation 3"
       ],
       "developer": "Sucker Punch Productions",
-      "release date": "26 de mayo de 2009",
+      "releaseDate": "26 de mayo de 2009",
       "awards": [
         "Spike Video Game Awards 2009 - Mejor Juego de Acción",
         "Golden Joystick Awards 2009 - Nominado a Mejor Juego de Acción"
@@ -375,7 +375,7 @@
     {
       "id": "game016",
       "name": "Guitar Hero III: Legends of Rock",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741788759/guitar_hero_i9aw9t.jpg",
       "info": "Guitar Hero III: Legends of Rock es un juego de ritmo y música desarrollado por Neversoft y publicado por Activision. Es la tercera entrega de la serie Guitar Hero y presenta una amplia lista de canciones de rock clásico y contemporáneo. Los jugadores usan un controlador de guitarra para tocar las notas al ritmo de la música. Este título introdujo el modo multijugador en línea y la posibilidad de tocar como personajes legendarios como Slash, de Guns N' Roses.",
       "genre": [
         "ritmo",
@@ -390,7 +390,7 @@
         "Microsoft Windows"
       ],
       "developer": "Neversoft",
-      "release date": "28 de octubre de 2007",
+      "releaseDate": "28 de octubre de 2007",
       "awards": [
         "Spike Video Game Awards 2007 - Mejor Juego de Ritmo",
         "Golden Joystick Awards 2008 - Mejor Juego Musical",
@@ -401,7 +401,7 @@
     {
       "id": "game017",
       "name": "Prince of Persia: The Lost Crown",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741788848/prince_of_persia_pg7gww.jpg",
       "info": "Prince of Persia: The Lost Crown es un videojuego de acción y aventura de desplazamiento lateral desarrollado y publicado por Ubisoft. El juego presenta a Sargon, un joven miembro del clan guerrero Los Inmortales, quien debe viajar a la ciudad maldita del Monte Qaf para rescatar al Príncipe Ghassan, secuestrado por el general traidor Vahram. Sargon posee habilidades acrobáticas y puede utilizar poderes temporales para superar obstáculos y enemigos. El mundo del juego está interconectado, ofreciendo elementos de exploración y resolución de acertijos al estilo Metroidvania.",
       "genre": [
         "acción",
@@ -418,7 +418,7 @@
         "Microsoft Windows"
       ],
       "developer": "Ubisoft Montpellier",
-      "release date": "18 de enero de 2024",
+      "releaseDate": "18 de enero de 2024",
       "awards": [
         "Metacritic Score: 86",
         "IGN Best Action-Adventure Game 2024",
@@ -429,7 +429,7 @@
     {
       "id": "game018",
       "name": "Sekiro: Shadows Die Twice",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741788903/sekiro_psszbj.webp",
       "info": "Sekiro: Shadows Die Twice es un juego de acción y aventura desarrollado por FromSoftware, conocido por su dificultad desafiante. Ambientado en el Japón feudal, los jugadores controlan a un shinobi llamado Sekiro, quien busca rescatar a su joven señor y vengar su pérdida. El juego se destaca por su combate fluido, que combina la precisión de la espada con mecánicas de parry y sigilo. A diferencia de otros títulos de FromSoftware, Sekiro se enfoca en una narrativa más directa y un estilo de combate centrado en la habilidad y la estrategia.",
       "genre": [
         "acción",
@@ -443,7 +443,7 @@
         "Microsoft Windows"
       ],
       "developer": "FromSoftware",
-      "release date": "22 de marzo de 2019",
+      "releaseDate": "22 de marzo de 2019",
       "awards": [
         "The Game Awards 2019 - Juego del Año",
         "Golden Joystick Awards 2019 - Mejor Juego de Acción",
@@ -455,7 +455,7 @@
     {
       "id": "game019",
       "name": "Ghost of Tsushima",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741788950/ghost_e8ltzi.webp",
       "info": "Ghost of Tsushima es un juego de acción y aventura en mundo abierto desarrollado por Sucker Punch Productions. Ambientado en el Japón feudal, los jugadores controlan a Jin Sakai, un samurái que lucha contra la invasión mongola en la isla de Tsushima. El juego destaca por su bellísimo mundo abierto inspirado en el Japón tradicional, su combate fluido basado en espada y el uso de sigilo y tácticas para derrotar a los enemigos. La narrativa sigue el viaje de Jin mientras lucha por mantener su honor y adaptarse a un nuevo estilo de combate para salvar a su pueblo.",
       "genre": [
         "acción",
@@ -468,7 +468,7 @@
         "PlayStation 5"
       ],
       "developer": "Sucker Punch Productions",
-      "release date": "17 de julio de 2020",
+      "releaseDate": "17 de julio de 2020",
       "awards": [
         "The Game Awards 2020 - Mejor Juego de Aventura",
         "Golden Joystick Awards 2020 - Mejor Juego de Acción",
@@ -480,7 +480,7 @@
     {
       "id": "game020",
       "name": "Elden Ring",
-      "image": "",
+      "image": "https://res.cloudinary.com/dtetqhpqr/image/upload/v1741789077/elden_ring_qvwmzu.jpg",
       "info": "Elden Ring es un juego de rol y acción de mundo abierto desarrollado por FromSoftware y dirigido por Hidetaka Miyazaki, en colaboración con el autor de 'Juego de Tronos', George R. R. Martin. El juego se sitúa en el mundo de The Lands Between, donde los jugadores asumen el papel de un personaje conocido como el 'Tarnished', que busca restaurar el Elden Ring y convertirse en el Elden Lord. El juego combina la dificultad característica de FromSoftware con un mundo expansivo y un sistema de combate innovador.",
       "genre": [
         "rol",
@@ -496,7 +496,7 @@
         "Microsoft Windows"
       ],
       "developer": "FromSoftware",
-      "release date": "25 de febrero de 2022",
+      "releaseDate": "25 de febrero de 2022",
       "awards": [
         "The Game Awards 2022 - Juego del Año",
         "Golden Joystick Awards 2022 - Mejor Juego de Acción/Aventura",
@@ -1141,11 +1141,19 @@
     },
     {
       "id": "coment080",
-      "userName": "TooHard4Me",
-      "favs": "👎",
+      "userName": "TooHard",
+      "favs": "null",
       "comment": "Los gráficos y la música son geniales, pero la dificultad es absurda en algunas partes. No hay un modo fácil, lo que hace que muchos jugadores no puedan disfrutarlo.",
       "dayPublish": "10 de marzo de 2022",
-      "gameId": "game020"
+      "gameId": "game020",
+      "coment": "Lalalal."
+    },
+    {
+      "userName": "Kurt",
+      "comment": "bla bla bla",
+      "dayPublish": "21 de agosto",
+      "gameId": "game001",
+      "id": "eWhI4dO"
     }
   ]
 }
