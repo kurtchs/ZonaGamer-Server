@@ -1,4 +1,4 @@
-process.loadEnvFile()   // esto permite a node acceder
+require('dotenv').config()   // esto permite a node acceder
 
 const jsonServer = require("json-server")
 
@@ -19,7 +19,7 @@ const router = jsonServer.router("db.json")
 
 server.use(router)
 
-const PORT = process.env.PORT
+const PORT = process.env.PORT | 5005
 
 server.listen(PORT, () => {
     console.log("servidor andando")
